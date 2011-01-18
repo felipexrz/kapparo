@@ -1,0 +1,18 @@
+#summary Updated Daily.
+
+== Project Status ==
+
+*1/17/2011 7:45PM*: Google Code Page created
+
+*1/17/2011 7:45PM*: Server setup complete; Creating client
+
+----
+== Notes ==
+
+=== Client ===
+ * Client is to be finished by 1/18/2011
+ * No-IP Testing throughout the week, over weekend
+ * Client packaging and release date not set
+
+=== Forum ===
+ * To be announced
