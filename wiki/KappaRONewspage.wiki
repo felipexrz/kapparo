@@ -1,13 +1,29 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= KappaRO =
 
-Add your content here.
+KappaRO is a Ragnarok Online game server.
+The server is still under development, and has not yet been launched.
+
+From the day of launch, we will be using the most up-to-date 3ceam SVN *trunk* release. NOT the stable. This means that there still may be bugs during gameplay, and you can view the current bug tracker on the 3ceam boards. If you do find a bug during gameplay, please report it to an Admin and we will check and see if it is documented. This will help the development of the 3ceam project.
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+     * Latest 3ceam trunk
+     * Dual class system underway, please see Dual Class wiki page.
+     * Frequent downtime until client is thoroughly tested by staff.
+     * Once above is done, you will be given a downtime schedule. 
+       It will be listed here, and on the new forum page. 
+
+     * Google Code page administered by Synthetic
+     * Web forum administered by Kachan
+
+
+----
+
+= Contact =
+
+Server Master: 
+     ADM Synthetic  
+     znowicki93@gmail.com
