@@ -1,0 +1,25 @@
+#summary Temporary Hamachi Support
+
+= Playing via Hamachi =
+
+=== 1/18/11 ===
+<font color=BLUE>KappaRO will temporarily be run via Hamachi networking.
+<font color=BLACK>
+In order to play KappaRO *you must:*
+     * LogMeIn Hamachi Installed
+
+           https://secure.logmein.com/US/products/hamachi2/download.aspx
+
+          <font color=RED>CLICK DOWNLOAD LINK ON THE LEFT AND RUN INSTALLER<font color=BLACK>
+
+     * Valid network password
+     * Working client (see downloads section)
+<font color=GREEN>
+Again, this is a temporary measure until client issues are resolved. 
+<font color=RED>
+*Only* those involved in Server Testing will be granted a password.
+<font color=BLACK>
+If you are in the dev team, please email znowicki93@gmail.com for passport information.
+
+=== Thank you,===
+     === <font color=PURPLE>Synthetic ===
