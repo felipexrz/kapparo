@@ -17,7 +17,7 @@ From the day of launch, we will be using the most up-to-date 3ceam SVN *trunk* r
        It will be listed here, and on the new forum page. 
 
      * Google Code page administered by Synthetic
-     * Web forum administered by Kachan
+     * Web forum administered by Kiki
 
 
 ----
