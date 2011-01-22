@@ -7,6 +7,19 @@ The server is still under development, and has not yet been launched.
 
 From the day of launch, we will be using the most up-to-date 3ceam SVN *trunk* release. NOT the stable. This means that there still may be bugs during gameplay, and you can view the current bug tracker on the 3ceam boards. If you do find a bug during gameplay, please report it to an Admin and we will check and see if it is documented. This will help the development of the 3ceam project.
 
+= Playing KappaRO - User Guidelines =
+
+<font color=RED> *It is strongly recommended that all players view the bugtracker wiki page before playing.*
+
+<font color=BLACK>
+  * If you experience ANY difficulties, please refer it to an online staff member. 
+
+*Contact <font color=PURPLE>[ADM] Synthetic<font color=BLACK> for any issue regarding your client crashing or major bug. Again, PLEASE read the bugtracker to see a list of KNOWN issues and their status in being resolved.*
+
+*If the Admin is not available, or if you have a general gameplay question, contact <font color=PURPLE>[GM] Kansei.*<font color=BLACK>
+
+  * It is recommended that new users to Ragnarok Online play a more stable server. Again, this is for *EXPERIENCED PLAYERS ONLY.*
+
 
 = Details =
 
