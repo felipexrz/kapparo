@@ -11,7 +11,7 @@
 
   * Skills & Skill descriptions Unreadable
   * 3rd Job skills do not work for most classes
-  * Some items crash client R1
+  * Some items crash client KappaRO-HamachiR1
   * Several bugs associated with Training Grounds
 
 ~Thusly, users are recommended they skip the Training Grounds, and furthermore that only players with experience with Ragnarok Online participate in server play for the time being. (ADM Synthetic, 1/21/11 12:51am EST)
@@ -20,8 +20,6 @@
   * Public chat does not register in the chatbox, overhead displays only.
 
 ~Therefore, it is strongly suggested that users join a party upon initial logon so they view chat history. (ADM Synthetic, 1/21/11 12:54am EST)
-
-
 
 
 
