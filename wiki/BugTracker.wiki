@@ -1,0 +1,22 @@
+#summary One-sentence summary of this page.
+
+= KappaRO Client & Server Bugtracker =
+
+<font color=RED>
+*If you have found a bug, please read through the list below to see if it has been acknowledged and for solution progress. 
+
+<font color=GREEN> If it has not been taken note of, please post it in the comment section below or email it to <font color=PURPLE> znowicki93@gmail.com 
+
+<font color=RED>
+
+  * Skills & Skill descriptions Unreadable
+  * 3rd Job skills do not work for most classes
+  * Some items crash client R1
+  * 
+
+
+
+
+
+
+
