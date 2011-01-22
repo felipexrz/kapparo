@@ -20,6 +20,13 @@ From the day of launch, we will be using the most up-to-date 3ceam SVN *trunk* r
 
   * It is recommended that new users to Ragnarok Online play a more stable server. Again, this is for *EXPERIENCED PLAYERS ONLY.*
 
+  * If you do something that creates a client-related issue, such as obtaining a bugged equip stopping you from logging back on, then only Synthetic can fix it via the databases. Therefore, <font color=RED>IF WE FIX YOUR ACCOUNT, PLEASE DO NOT REPEAT YOUR MISTAKE. Modifying the databases takes time, and the Admin is busy as it is working on other issues. Believe me, there is not enough hours in the day to fix every little problem.*
+
+<font color=GREEN>
+
+= Your cooperation is appreciated! THANK YOU =
+<font color=BLACK>
+
 
 = Details =
 
