@@ -19,5 +19,4 @@
   * Select jobs have limited clothing palettes. All classes are valid for styles 1-3, but for some classes any style above those indexes will crash the client. <font color=RED>*PLEASE SEE THE GENERAL SERVER INFO PAGE.*<font color=BLACK>
   * Public chat does not register in the chatbox, overhead displays only.
 
-~Therefore, it is strongly suggested that users join a party upon initial logon so they view chat history. (ADM Synthetic, 1/21/11 12:54am EST)
-
+~Therefore, it is strongly suggested that users join a party upon initial logon so they can view chat history. (ADM Synthetic, 1/21/11 12:54am EST)
