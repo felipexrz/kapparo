@@ -38,7 +38,11 @@ From the day of launch, we will be using the most up-to-date 3ceam SVN *trunk* r
 
      * Google Code page administered by Synthetic
      * Web forum administered by Kiki
+___
 
+= GM ACCOUNT EXPIRATION - ATTENTION =
+
+*EFFECTIVE After Stable Client Release*, ANY *NON-SERVER CRITICAL GM ACCOUNTS* will have their GM status *REDUCED* to GM Level 1. You will retain any commands necessary for providing general support and running events. *If you are unsure if you meet this criteria, or dispute this movement, please inquire with Synthetic [please see contacts section] immediately.* 
 
 ----
 
