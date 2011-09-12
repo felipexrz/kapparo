@@ -1,5 +1,13 @@
 #summary Temporary Hamachi Support
 
+==<font color=RED>Hamachi is now included in the client package.<font color=BLACK>==
+
+===Therefore, use the following if your Hamachi installer did not work, or is out of date. However, once installed Hamachi should update itself.===
+
+-kattun 9/12/11
+
+<hr>
+
 = Playing via Hamachi =
 
 === 1/18/11 ===
@@ -22,4 +30,4 @@ Again, this is a temporary measure until client issues are resolved.
 If you are in the dev team, please email znowicki93@gmail.com for passport information.
 
 === Thank you,===
-     === <font color=PURPLE>Synthetic ===
+     === <font color=PURPLE>Kattun ===
