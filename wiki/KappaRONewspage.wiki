@@ -1,7 +1,20 @@
 #summary General Server Info
 
-<font color=RED>
+<font color=RED face=verdana>
 =page under construction=
 
+<font color=BLACK>
+=_Kappa Ragnarok Online - <font color=00AAFF>Legacy Release_=
+
+----
+
+<font color=BLACK>
+
+== Introduction == 
+
+<font color=RED> KappaRO <font color=BLACK> is a friendly and growing <font color=BLUE> SHR server.<font color=BLACK> 
+<br>Some of our features we're proud to offer our players include:
+
 <font color=PURPLE>
-=_Kappa Ragnarok Online - Legacy Release_=
+  * Friendly, experienced staff
+  * 
