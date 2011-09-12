@@ -4,7 +4,7 @@
 
 ===Therefore, use the following if your Hamachi installer did not work, or is out of date. However, once installed Hamachi should update itself.===
 
--kattun 9/12/11
+-kattun 9/11/2011
 
 <hr>
 
