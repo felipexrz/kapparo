@@ -12,9 +12,53 @@
 
 == Introduction == 
 
-<font color=RED> KappaRO <font color=BLACK> is a friendly and growing <font color=BLUE> SHR server.<font color=BLACK> 
+<font color=RED> KappaRO <font color=BLACK> is a friendly and growing <font color=BLUE> SHR & 3rd Class server.<font color=BLACK> 
 <br>Some of our features we're proud to offer our players include:
 
 <font color=PURPLE>
-  * Friendly, experienced staff
-  * 
+  * Friendly, professional, and experienced staff
+  * Custom quests that you won't find anywhere else!
+  * A unique, *FREE* public MVP room
+  * Senpai staff members to assist new players!
+  * A developing set of custom BGM
+  * Unique GM Events and ticket exchange system!
+  * Dual Class
+  * PVP City Maps
+
+<font color=black>
+Some futures features include, but are not limited to are:
+
+<font color=green>
+
+  * Housing system (Live in the city!)
+  * MVP Room Leaderboard system
+  * Unique Gold Room
+  * Additional custom quests
+  * .. and more!
+
+<font color=black>
+<br>
+----
+== Download Our Client ==
+
+<font color = red>*COMING SOON*<font color=black>
+<br><br>
+
+----
+
+== Meet The Staff ==
+
+<font color = PURPLE>
+==== [ADM] Kattun ===
+<font color =BLACK>
+I'm the server administrator!<br>
+I've been playing for about three years now, and have been running KappaRO for about two years. Kappa was down from the spring and over the summer, but I'm very happy to bring everything back online under the Legacy Release!
+
+*Server Specs*
+  * Latest 3ceam trunk
+  * SQL
+  * SHR: 100000x100000x100000
+
+I look forward to seeing you online!
+
+  
