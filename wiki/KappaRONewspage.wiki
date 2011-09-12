@@ -1,7 +1,6 @@
 #summary General Server Info
 
-<font color=RED face=verdana>
-=page under construction=
+<font face=verdana>
 
 <font color=BLACK>
 =_Kappa Ragnarok Online - <font color=00AAFF>Legacy Release_=
@@ -40,12 +39,19 @@ Some futures features include, but are not limited to are:
 <br>
 ----
 == Download Our Client ==
+<font color=RED>
 
-<font color = red>*COMING SOON*<font color=black>
-<br><br>
+*To download the client, you must install <a href="http://tortoisesvn.net/downloads.html">TortiseSVN.</a>*
+<font color=black>
+  # Create a new folder for the game on your desktop.
+  # Right click on the folder, hit "SVN Checkout"
+  # Paste this URL into the box:
+    * https://kapparo.googlecode.com/svn/trunk/
+  # Open README.txt and follow the instructions
+  # *PLAY!*<br><br>
 
 ----
-
+<font color=black>
 == Meet The Staff ==
 
 <font color = PURPLE>
