@@ -1,3 +1,7 @@
 #summary General Server Info
 
-<font color=RED>=page under contruction=<font color=black>
+<font color=RED>
+=page under construction=
+
+<font color=PURPLE>
+=_Kappa Ragnarok Online - Legacy Release_=
