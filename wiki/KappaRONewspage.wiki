@@ -49,7 +49,7 @@ Some futures features include, but are not limited to are:
 == Meet The Staff ==
 
 <font color = PURPLE>
-==== [ADM] kattun ===
+==== [ADM] kattun ===
 <font color =BLACK>
 I'm the server administrator!<br>
 I've been playing for about two years now, and have been running KappaRO for about a year. Kappa was down from the spring and over the summer, but I'm very happy to bring everything back online under the Legacy Release!
@@ -71,5 +71,3 @@ Playing Ragnarok for nearly 7 years, I've been a GM on three different servers. 
 
 Need any help? Don't be shy to ask!<br>
 See you there~
-
-
