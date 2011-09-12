@@ -48,14 +48,14 @@ Some futures features include, but are not limited to are:
   # Paste this URL into the box:
     * https://kapparo.googlecode.com/svn/trunk/
   # Open README.txt and follow the instructions
-  # *PLAY!*<br><br>
+  # *PLAY!* <br><br>
 
 ----
 <font color=black>
 == Meet The Staff ==
 
 <font color = PURPLE>
-==== [ADM] kattun ===
+==== *ADM* kattun ===
 <font color =BLACK>
 I'm the server administrator!<br>
 I've been playing for about two years now, and have been running KappaRO for about a year. Kappa was down from the spring and over the summer, but I'm very happy to bring everything back online under the Legacy Release!
@@ -70,7 +70,7 @@ I look forward to seeing you online!
  
 <font color=FE4400>
 
-==== [GM] KaChan ====
+==== *GM* KaChan ====
 <font color=black>
 I'm the head of our GM staff and assistant to Kattun!<br>
 Playing Ragnarok for nearly 7 years, I've been a GM on three different servers. I typically play midrate servers. Me and Kattun started Kappa together near the end of last year. I also fulfill administrative duties in Kattun's absence, and I write scripts for the random quests you may see on the road!
@@ -79,7 +79,7 @@ Need any help? Don't be shy to ask!<br>
 See you there~
 
 <font color=BLUE>
-==== SEN Kathulhu ====
+==== *SEN* Kathulhu ====
 <font color=BLACK>
 I'm a Senpai!<br>
 I've been playing RO for about a year, I believe. During that time, I worked alongside KaChan and Kattun as a GM. As a Senpai, I ensure that any new members of KappaRO are welcomed into the game with a helping hand. <br><br>I've been with KappaRO since it's founding, so if you're lost or need assistance with something, don't be afraid to ask questions!
