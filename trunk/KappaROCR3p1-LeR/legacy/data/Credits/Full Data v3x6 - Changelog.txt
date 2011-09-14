@@ -1,0 +1,2103 @@
+[ FullData_v3x6 ]
+
+
+Date	Added
+=============
+====================================
+= English Translation by $ephiroth =
+====================================
+
+2008-05-01
+	* Added recent kro items.
+	* Added item names 7917, 7918, 14229.
+
+2008-04-27
+	* Corrected desc 5372,13918,13954,13955,13956,13957,13958.
+	* Fixed Field Manual desc.
+	* Added desc 14529.
+	* Added recent kro items.
+
+2008-04-24
+	* Corrected desc 5372,13918,13954,13955,13956,13957,13958.
+	* Fixed Field Manual desc.
+	* Added recent kro items.
+
+2008-04-21
+	* Updated mercenary skilldesctable.
+
+2008-04-16
+	* Fixed item names 2546.
+	* Added desc and item names 13994 - 13999, 14000 - 14003.
+	* Added desc 11503 - 11504, 12246, 2441, 2546. 
+
+2008-04-14
+	* Updated msgstringtable line 1375.
+	* Added desc 12716.
+	* Fixed item names 12716.
+
+2008-04-12
+	* Added desc & item names 13991 - 13993, 5363 - 5367.
+
+2008-04-10
+	* Added desc 14569 - 14574, 7821 - 7824, 13821 - 13824.
+	
+2008-04-05
+	* Added desc 13990, 14592, 12312, 7622.
+	* Added temp. desc.
+
+2008-04-04
+	* Added recent kro item.
+	- Added desc 13987 - 13989, 5400.
+	- Added item names 12304 - 12306, 13975 - 13977, 12310, 6010, 13987 - 13989.
+	- Added item names 5400, 2441, 2546, 12716, 5402, 5404, 13990, 14592, 12312. 
+
+2008-03-28
+	* Fixed item names 5812.
+	* Updated msgstringtable line 1355.
+
+2008-03-26
+	* Corrected DEF desc 2719.
+
+2008-03-19
+	* Fix common Login error by oNplay / Elixir.
+	* Added data\sprite\npc
+	* Added custom cursor
+	* Added data\texture\유저인터페이스\basic_interface\equipwin_bg2.bmp
+	* Added data\texture\scr_logo.bmp <--- Powered by eAthena : ScreenShot
+
+	====================================
+	= English Translation by $ephiroth =
+	====================================
+2008-03-19
+	* Added desc & item names 5395, 5396, 5397, 12303, 13974.
+	* Corrected desc 5372, 5375.	
+
+2008-03-18
+	* Fixed msgstringtable.txt
+	* Updated msgstringtable.txt
+	* Added book reading system 7127 - 7133, 7144, 7434, 7755.
+		
+2008-03-13
+	* Fixed item names 7730 - 7741.
+	* Updated desc 7915, 7916, 12715, 14534 - 14537.
+	* Import missing desc 13722 - 13725 to num2itemdesc.
+
+2008-03-12
+	* Added desc & item names 7915, 7916, 12715, 12300 - 12302.
+	* Added desc & item names 12276 - 12278, 13896 - 13901.
+
+2008-03-09
+	* Added desc 7722 - 7726, 7751 - 7755,
+	* Fixed desc 7730 - 7741,7756. 
+	* Import missing Ids desc 7751 - 7754 to idnum2itemdesctable.
+
+2008-03-06
+	* Fixed Applicable job desc 2376.
+
+2008-03-05
+	* Added desc & item names 6008, 5812, 5394, 2742, 13968 - 13973.
+
+2008-02-28
+	* Corrected Required lvl desc 2730,2731.
+
+2008-02-27
+	* Fixed item names 13036, 13037.
+	* Updated desc 13036, 13037.
+	* Fixes desc 5340 - 5345.
+	* Added desc & item names 7914, 12714, 13962 - 13967.
+
+2008-02-24
+	* Added desc 5272,5296,5298,5299,7706,7707,7708,7709,
+	  13821,13822,13823,13824.
+	* Added desc 7805,7806,7807,7808,7809,7810,7812,7813,7814,7815,7816,7817,2709.	
+	* Fixed desc 7881,7811.
+
+2008-02-23
+	* Added desc 5385.
+	* Fixed item names 2540, 2437. 
+	* Fixed desc 2381, 2382, 2538, 2539.
+	* Fixed Required Level desc 2728.
+
+2008-02-22
+	* Added desc 7603.
+
+2008-02-21
+	* Added desc 7710,1274.
+
+2008-02-20
+	* Added recent kro item.
+	* Added desc & item names 13915,13916,13917,12287,12288,12289.
+	* Added missing desc & item names 13942,13943,13944.
+	* Fixed desc and names 5392.
+	* Fixed names of 5393.
+	* Added desc & names 13961,13109,13175,2741,2384,2385,2132,2543,2439,5391.
+	* Added desc & names 13951 - 13959.
+
+2008-02-18
+	* Added some desc and item names.
+	* Fixed missing weight desc 13937,13938,13939.
+	* Fixed a typos.
+	* Fixed item names 2435.
+	* Fixed bugs report.
+	
+2008/01/16
+	* Updates thanks to $ephirot. [NLZ]
+
+2007/12/29
+	* Updated with the latest kRO patch by $ephirot. [Au{R}oN]
+
+2007/12/11
+	* Added some item names 2733, 2734, 2735, 2714, 7900, 7901, 7902, 7903
+	  7904, 7840, 13863, 13864, 13865, 13866, 13867, 13868, 13869, 7839,
+	  7830, 7831, 7832, 7833, 7834, 7835, 7836, 7837, 7838, 12269, 12270,
+	  12271, 12272, 12273, 13859, 13860, 12274, 12275 by $ephiroth. [Au{R}oN]
+
+2007/12/08
+	* Updated desc and item names 13871 - 13894 by $ephiroth. [Au{R}oN]
+	* Fixed item names 7802 by $ephiroth. [Au{R}oN]
+	* Added desc and item names 12713 by $ephiroth. [Au{R}oN]
+	* Added item name 5371 by $ephiroth. [Au{R}oN]
+	* Fixed desc and item names 5811, 7908 - 7911 by $ephiroth. [Au{R}oN]
+	* Corrected some missing desc and item names by $ephiroth. [Au{R}oN]
+
+2007/12/06
+	* Fixed some typo and added new items desc by $ephiroth. [Au{R}oN]
+
+2007/12/04
+	* Reverted 'no msg' with 'NO MSG[n]' (n is a number). Why someone remove it? Its more comfortable for debug messages. [Au{R}oN]
+	* Updated recent kro items by $ephiroth. [Au{R}oN]
+	* Fixed some desc by $ephiroth. [Au{R}oN]
+	* Fixed skilldesctable by $ephiroth. [Au{R}oN]
+	* Updated mapnametable by $ephiroth. [Au{R}oN]
+	
+2007/10/17
+	* Added current kRO description. [-o-]
+
+2007/10/16
+	* Fixed skill & items description by Playtester. [-o-]
+	* Added japanese mobile items. [-o-]
+	* Added kRO description by $ephiroth. [-o-]
+
+2007/10/14
+	* Fixed more items name. [-o-]
+	* Added more items name. [-o-]
+
+2007/10/12
+	* Fixed cash items. [-o-]
+	* Fixed little typos. [-o-]
+	* Fixed lady tanee card & shadow walk by Playtester. [-o-]
+	* Added equip set from satan morocc. [-o-]
+	* Added SBR44 skill by Rytech. [-o-]
+	* Added skull ring effect. [-o-]
+
+2007/10/11
+	* Added current kRO description. [-o-]
+
+2007/10/09
+	* Fixed field manual name. [-o-]
+
+2007/10/07
+	* Fixed ninja suit equip set by theultramage. [-o-]
+	* Fixed typos. [-o-]
+	* Changed all card style. [-o-]
+
+2007/10/06
+	* Added items description 13857, 13858, 14586, 5809 by $ephiroth. [-o-]
+	* Added mRO event headgear. [-o-]
+
+2007/10/03
+	* Fixed emergency scroll. [-o-]
+	* Fixed Sniper card by $ephiroth & Playtester. [-o-]
+	* Added current kRO description. [-o-]
+	* Updated msgstingtable. [-o-]
+
+2007/10/02
+	* Fixed Gemini-S58 card by Playtester. [-o-]
+	* Fixed more typos. [-o-]
+	* Fixed msgstringtable. [-o-]
+
+2007/09/30
+	* Fixed satan morocc equip set. [-o-]
+	* Fixed typos. [-o-]
+
+2007/09/29
+	* Fixed Frigg's circlet set (test on official server). [-o-]
+
+2007/09/28
+	* Fixed items name and description 13844, 7825, 12194. [-o-]
+	* Added skill ALL_INCCARRY description. [-o-]
+	* Added ToD. [-o-]
+	* Changed Accy to Accessory. [-o-]
+	* Updated msgstingtable. [-o-]
+
+2007/09/26
+	* Fixed crap card by Playtester. [-o-]
+	* Fixed items name "Month Cookie" to "Moon Cookie". [-o-]
+	* Fixed typos. [-o-]
+	* Added items name 2719. [-o-]
+
+2007/09/25
+	* Fixed items description 2702, 2124, 2123, 2677, 2711. [-o-]
+	* Fixed items description 2702, 2124 by $ephiroth & Playtester. [-o-]
+	* Fixed typos. [-o-]
+
+2007/09/24
+	* Fixed items description 1175, 1370, 1371, 4286, 4303 and more by Playtester & -o-. [-o-]
+	- Changed all stat form.
+	* Fixed more typos. [-o-]
+	* Changed book name to prontera bible01. [-o-]
+	* Added more monster skill by $ephiroth & -o-. [-o-]
+
+2007/09/23
+	* Fixed items description 4367 by Playtester. [-o-]
+	* Fixed typos. [-o-]
+	* Added prontera bible book (Chinese language) by $ephiroth. [-o-]
+
+2007/09/22
+	* Fixed items description 1265, 4263, 4353, 4354, 4367, 4394 by Playtester. [-o-]
+	* Fixed items description 1241, 1262, 1263, 1264, 1370, 1371, 1522, 1815, 1969,
+	  4333, 5177, 13006 by Playtester. [-o-]
+	* Fixed more items by Playtester. [-o-]
+	* Fixed msgstingtable by theultramage. [-o-]
+	* Fixed typos. [-o-]
+	* Changed "Every Trans Second Job" to "Rebirth 2nd Class or above". [-o-]
+
+2007/09/21
+	* Fixed items ID 7804 to 2713 (current kRO desc.) by $ephiroth. [-o-]
+	* Added more items description by $ephiroth. [-o-]
+
+2007/09/20
+	* Fixed items name 7800, 1631, 1182. [-o-]
+	* Added more items description by $ephiroth. [-o-]
+	* Added items description 13804, 13805, 13806, 13807, 13808, 13844, 7825,
+	& Satan Morocc by $ephiroth. [-o-]
+
+2007/09/19
+	* Fixed items name 7795. [-o-]
+	* Added description 5225, 5257, 5258. [-o-]
+	* Updated 12.1 Resurrection of Satan Morocc [666] :3. [-o-]
+
+2007/09/18
+	* Fixed description 1624, 13028, 1268, 1271, 4366, 2425, 1269 by Playtester & -o-. [-o-]
+
+2007/09/17
+	* Added description 12152, 12190, 12191. [-o-]
+
+2007/09/16
+	* Added missing items name and fixed typos. [-o-]
+
+2007/09/15
+	* Added description 5259, 5272 by $ephiroth. [-o-]
+
+2007/09/14
+	* Fixed devotion skill by theultramage. [-o-]
+	* Fixed flip coin skill by Playtester. [-o-]
+	* Fixed orlean's description by Christian. [-o-]
+	* Fixed typos. [-o-]
+	* Added new message by Samueloa & $ephiroth. [-o-]
+	* Added Chinese Event Maps. [-o-]
+
+2007/09/13
+	* Fixed items name 7886, 7888, 12706, 12707, 12708, 7605, 5211, 5212, 5213, 5214. [-o-]
+	* Fixed typos. [-o-]
+	* Fixed High quality sandals weight & required level by theultramage. [-o-]
+	* Added description 14539, 14540, 14541, 14542, 14543, 14544. [-o-]
+	* Added description 7605, 12194, 7886, 7887, 7888, 7889, 12706, 12707, 12708, 11702,
+	5324, 5325, 5284. [-o-]
+	* Added description 13728, 13729, 13730, 13731, 13709, 5333 by $ephiroth. [-o-]
+	* Added Japanese Event Maps. [-o-]
+	* Added Thailand Event Maps by $ephiroth. [-o-]
+
+2007/09/12
+	* Fixed items description to iRO 1370, 1371, 13163, 13164, 13167, 13168, 13169, 2680. [-o-]
+	* Fixed items doom slayer 1% to 5% by Playtester. [-o-]
+	* Fixed typos by $ephiroth. [-o-]
+	* Changed "Ring of Minor Spirit" to "Lesser Elemental Ring". [-o-]
+	* Updated recent kRO items by $ephiroth & -o-. [-o-]
+
+2007/09/11
+	* Fixed skill "NJ_KAMAITACHI" by Playtester. [-o-]
+
+2007/09/10
+	* Fixed items name 5324, 13710, 7776, 13711-13720, 14534-14537. [-o-]
+
+2007/09/09
+	* Fixed items name 7777, 7778, 7823, 7824, 13823, 13824, 14572, 14573, 14574. [-o-]
+	* Fixed items name 7725. [-o-]
+	* Fixed Skill Cost "560 - 60" to "560 - 100" by Playtester. [-o-]
+	* Added missing weight for 5190. [-o-]
+	* Added Taiwan event maps. [-o-]
+
+2007/09/08
+	* Fixed all 11.3 description by Playtester & -o-. [-o-]
+	* Added more color tag. [-o-]
+	* Added Ragnarok Indonesian Champion description by $ephiroth. [-o-]
+
+2007/09/06
+	* Fixed items name 7800, 5322. [-o-]
+	* Fixed rybio card by Playtester. [-o-]
+	* Fixed typos. [-o-]
+	* Added description 7793, 7800, 5322. [-o-]
+
+2007/09/05
+	* Fixed typos. [-o-]
+	* Added current kRO items. [-o-]
+	* Added RIC items. [-o-]
+	* Added pet dialogs. [-o-]
+
+2007/09/02
+	* Fixed typos at skillname & description. [-o-]
+
+2007/08/31
+	* Fixed little typos. [-o-]
+	* Added quest description. [-o-]
+
+2007/08/30
+	* Fixed items name 5287, 5292, 12999, 13569, 14528, 13624, 14530, 13625, 14531, 5153,
+	5173, 5175, 5177, 5137, 5139. [-o-]
+	* Fixed some typos. [-o-]
+	* Added description 5283-5294, 5211-5213. [-o-]
+	* Added description 13814 by $ephiroth. [-o-]
+	* Added items name 7795. [-o-]
+
+2007/08/29
+	* Fixed all mercenary potion by $ephiroth. [-o-]
+	* Fixed items name 13814, all books. [-o-]
+	* Fixed msgstringtable. [-o-]
+	* Fixed typos. [-o-]
+	* Added 2007 RWC maps. [-o-]
+	* Added book translation. [-o-]
+	* Added description 7704, 7705, recent kRO and all books. [-o-]
+	* Clear all contain. [-o-]
+	* Corrected ragged zombie to current description. [-o-]
+	* Updated msgstringtable. [-o-]
+
+2007/08/28
+	* Added all book system. [-o-]
+	* Added recent kRO items name. [-o-]
+
+2007/08/27
+	* Fixed description 5805, 2708, 12705 and cash items (tRO magic scroll) by $ephiroth. [-o-]
+	* Added new skill. [-o-]
+
+2007/08/25
+	* Fixed more typos by Playtester, -o-. [-o-]
+
+2007/08/24
+	* Fixed some typos. [-o-]
+	* Added coma color tag. [-o-]
+	* Added items name 7799, 12258, 7889, 7886, 7706, 7707, 7708, 7709, 13624, 14530
+	13621, 13622, 13623, 14529, 7722, 7723, 7724, 7725, 7755, 5225. [-o-]
+	* Fixed description 1424, 1628, 2535, 14534, 14535, 5286, 5294, 13722, 13723, 13724,
+	13725 by $ephiroth. [-o-]
+	* Updated Rental items description by $ephiroth, -o-. [-o-]
+
+2007/08/23
+	* Fixed description 13304, 1415 by Playtester. [-o-]
+	* Fixed description 2710, 1274, 1273 by $ephiroth. [-o-]
+	* Fixed description 5129, 5132, 5133, 2645. [-o-]
+	* Fixed description 1168, 5289, 2369, 13409, 1274, 5255, 2428, 2533, 5306. [-o-]
+	* Fixed items name 5097, 12258. [-o-]
+	* Fixed items name 2712 by vicious_pucca. [-o-]
+	* Fixed items name 5806, 5095. [-o-]
+	* Fixed more typos. [-o-]
+	* Fixed typos by Playtester. [-o-]
+	* Added items name 12261. [-o-]
+	* Added tag "Impossible to refine this item." for rental items. [-o-]
+	* Removed items 13732, 13733. [-o-]
+	* Updated Ragged Zombie card description. [-o-]
+
+2007/08/22
+	* Fixed description 2535. [-o-]
+	* Added rental color tag. [-o-]
+	* Added recent kRO items. [-o-]
+
+2007/08/21
+	* Fixed some typos. [-o-]
+	* Fixed some weight. [-o-]
+	* Added Ghost properties color tag. [-o-]
+	* Added jRO event maps. [-o-]
+	* Added RWC2007, RJC2007 & Speed Star maps. [-o-]
+
+2007/08/20
+	* Fixed equipment set description. [-o-]
+	* Fixed items name 2417. [-o-]
+	* Added Valkyrja's set and Fixed Ninja set. [-o-]
+
+2007/08/19
+	* Fixed more typos. [-o-]
+	* Fixed description 1269. [-o-]
+	* Added missing color tag. [-o-]
+	* Added missing description jRO cash items. [-o-]
+	* Changed "Message" to "Log" by Skotlex. [-o-]
+
+2007/08/18
+	* Fixed all title name. [-o-]
+	* Fixed description 1818, 1819, 1820, 1821 by Playtester. [-o-]
+	* Fixed description 9029, 9030. [-o-]
+	* Fixed description 5132 because it can refine. [-o-]
+	* Fixed more description. [-o-]
+	* Added additional items to craft into arrows. [-o-]
+	* Added items name 12260. [-o-]
+	* Added description 2700, 13518, 13519, 13520, and more (Taiwan Event Items). [-o-]
+	* Added mercenary skill description from doddler's wiki. [-o-]
+	* Added more missing color tag. [-o-]
+	* Added more missing weight from doddler's database. [-o-]
+	* Added property tag for 11.3 new weapon. [-o-]
+	* Added set equipment for 11.3 new equipment. [-o-]
+	* Changed "GungHo" to "Gung-Ho". [-o-]
+
+2007/08/17
+	* Fixed all mercenary skill to classify of kind. [-o-]
+	* Fixed some typos. [-o-]
+	* Added color tag for Rental Items. [-o-]
+	* Added mosk_que map. [-o-]
+
+2007/08/16
+	* Fixed items name 7553, 7703 by $ephiroth. [-o-]
+	* Fixed more typos. [-o-]
+	* Added description 1171, 5800, 4412, 13500, 12199 by $ephiroth. [-o-]
+	* Added little description 5321, 2700 by $ephiroth, -o-. [-o-]
+	* Added more missing weight. [-o-]
+	* Changed "NO MESSAGE (X)" to "no msg". [-o-]
+
+2007/08/15
+	* Fixed Description Formatting "Two-handed" to "Two-Handed". [-o-]
+	* Fixed description 12247, 5318, 5320, 13725, 13710 and Freya set and more. [-o-]
+	* Fixed num2itemdisplaynametable "5th_Anniversary_Coin" to "Accessory". [-o-]
+	* Fixed typos description. [-o-]
+	* Added description from Sakray test session. [-o-]
+	* Added items name from Sakray test session. [-o-]
+	* Updated msgstringtable by glucose. [-o-]
+
+2007/08/14
+	* Fixed skill description by Playtester. [-o-]
+	* Fixed typos description. [-o-]
+	* Added Chinese event maps. [-o-]
+	* Added items name 7781, 7782, 7783, 13732, 13733, 5320, 5321. [-o-]
+	* Changed cardpostfixnametable to revision 405. [-o-]
+	* Updated msgstringtable to dummies :P. [-o-]
+
+2007/08/13
+	* Fixed items name 11001, 11002, 11003, 11006, 11007. [-o-]
+	* Fixed items name 5525, 7726. [-o-]
+	* Added items name 7858, 7859. [-o-]
+	* Removed duplicate description 7765, 2707. [-o-]
+
+2007/08/12
+	* Fixed some description new hat. [-o-]
+	* Fixed some description 7621, 12212, 12209, 12210, 12901, 12922, 1535, 2000, 5220
+	12214, 7619, 7620, 1565 by $ephiroth. [-o-]
+
+2007/08/11
+	* Fixed some typos 5296, 5297, 5298, 5299, 2706, 5304, 5303, 5302, 5301, 5300, 5803. [-o-]
+	* Fixed equip description 5805, 2708, 2700, 2369, 2428, 2533, 5306, 5305, 5804. [-o-]
+	* Fixed equip description 13722, 13723, 13724, 13725. [-o-]
+	* Fixed more typos. (such as weight, job, etc.) [-o-]
+	* Added missing description cash items, 1293, 5304. [-o-]
+	* Added missing description 13553, 14527, 13721, 13734, 13735, 13736, 13737. [-o-]
+	* Changed cardprefixnametable "Crane" to "Shaft". [-o-]
+	* Removed duplicate description 13572, 13573, 13574, 13575. [-o-]
+
+2007/08/10
+	* Fixed cards name 4412, 4415 and more by $ephiroth and -o-. [-o-]
+	* Fixed more typos. [-o-]
+	* Added missing description new card and more by $ephiroth. [-o-]
+	* Added missing description cash items. [-o-]
+	* Deleted Ricecake dialog. [-o-]
+	* Removed duplicate description. [-o-]
+
+2007/08/09
+	* Removed duplicate IDs 7792, 7793. [-o-]
+
+2007/08/08
+	* Fixed items name 7877, 7883, 5319 by $ephiroth and TrueNoir. [-o-]
+	* Fixed msgstringtable "Han Coin" to "GungHo Coin" jRO. [-o-]
+	* Added new cards name. [-o-]
+	* Added items name 7792, 7793, 13734, 13735, 13736, 13737, 11701. [-o-]
+	* Added desc all new cash items and more by $ephiroth and TrueNoir. [-o-]
+	* Update msgstringtable. [-o-]
+	* Update cardprefixnametable to new card. [-o-]
+
+2007/08/07
+	*Corrected msgstringable with ALL new messages. [Au{R}oN]
+
+2007/08/04
+	* Fixed items name 5320, 5321. [-o-]
+	* Added missing desc 5320, 5321. [-o-]
+
+2007/08/01
+	* Fixed items name 5243, 5319. [-o-]
+	* Fixed skill name. [-o-]
+	* Fixed desc 5805 by $ephiroth. [-o-]
+	* Added items name 13738, 13739, 13740, 13741, 13742, 13743, 13744, 13745, 13746,
+	13747, 13748, 13749, 13750, 13751, 13752, 13753, 13754, 13755, 13756, 13757, 14538,
+	14539, 14541, 14542, 14543, 14544, 7794, 7796, 7797, 7798, 7799. [-o-]
+	* Added missing desc 5310, 5311, 5312, 5313, 5314, 5315, 5319. [-o-]
+
+2007/07/31
+	* Added items name 7876, 7877, 7878, 7879, 7880, 7881, 7882, 2429, 2430. [-o-]
+	* Added missing desc 14534, 14535, 14536, 14537, 7776. [-o-]
+	* Added missing desc 5302 by $ephiroth. [-o-]
+	* Fixed skill name to be perfectly. [-o-]
+
+2007/07/30
+	* Fixed num2itemdisplaynametable to be perfect by $ephiroth. [-o-]
+	* Fixed some items name. [-o-]
+	* Fixed little bug. [-o-]
+	* Added missing description 5214, 7850, 5801, 12971, 12972, 12973, 12974, 12975, 12976,
+	12977, 12978, 12979, 12980, 12981, 12982 and more by $ephiroth. [-o-]
+	* Added skills name by $ephiroth and -o-. [-o-]
+
+2007/07/29
+	* Fixed item name 7515, 5310, 5311, 5312, 5313,13701,13702 ,13703, 13704, 13705, 13706,
+	13707, 7769, 7875, 5804, 13626, 13627, 13628, 13629, 13630, 13631, 13632, 13633, 5302
+	and more. [-o-]
+	* Added item names 5321, 13711, 13712, 13713, 13714, 13715, 13716, 13717, 13717,
+	13718, 13719, 13720, 13721, 13722, 13723, 13724, 13725, 14534, 14535, 14536, 14537
+	5303, 5301 and more. [-o-]
+	* Added more title description. [-o-]
+	* Added some map name. [-o-]
+	* Added new skill name. [-o-]
+	* Update cardpostfixnametable. [-o-]
+
+2007/07/28
+	* Fixed manner to be perfectly. [-o-]
+	* Fixed msgstringtable to be perfectly. [-o-]
+	* Fixed all 11.3 New Equipment Items name. [-o-]
+	* Added desc and items name 7884, 7885, 5805, 2708, 12704, 12705. [-o-]
+	* Added new pettalktable from official mRO and sRO by $ephiroth. [-o-]
+
+2007/07/24
+	* Added some missing. [Au{R}oN]
+
+2007/07/22
+	* Added recent kRO items. [$ephiroth]
+	* Added some missing desc & item names. [$ephiroth]
+	* Added desc & item names (12257,5316,5317,5803,7864). [$ephiroth]
+	* Fixed desc 2677. [$ephiroth]
+	* Adjusted some pet egg names to official and added desc. [$ephiroth]
+	* Added desc Japanese Headgear 12 (incompleted). [$ephiroth]
+	* Added item names by -o- (5310,5311,5312,5313,5314,5315,5318,5319,5320). [$ephiroth]
+	* Added desc 5803 & 7864. [$ephiroth]
+
+2007/07/21
+	* Updated msgstringable.txt with the new Chat System Messages. [Au{R}oN]
+
+2007/07/11
+	* Updated some mRO event items, thanks to shinnobie [Lupus]
+
+2007/07/06
+	* Updated messed Kiel_Hyre_Quest.txt item names, accordinly [Lupus]
+
+2007/07/04
+	* Added some item desc fixes, added new ones by $ephiroth [Lupus]
+
+2007/07/03
+	* Added new RCW 2007 maps and fix some maps name based on latest kRO RWC patch. [Au{R}oN]
+	* Added some missing desc. [$ephiroth]
+	* Added some missing item names. [$ephiroth]
+	* Updated msgstringtable thank's to Tharis. [$ephiroth]
+	* Added recent kRO items. [$ephiroth]
+	* Fixed a few typos in description. [$ephiroth]
+
+2007/06/26
+	* Item names Dyestuff -> Dyestuffs [Lupus]
+
+2007/06/18
+	* Added some missing descs. [Au{R}oN]
+
+2007/06/09
+	* Added some missing names&descs, thanks to $ephiroth and -o-. [Lupus]
+
+2007/06/07
+	* Added Dr.Evil's translation of some items / places from new Episode Moscovia [Lupus]
+	- Added Nameless, Poring Islands, Abbey maps
+
+2007/05/29
+	* Updated 2424, 5296, 5297, 5298, 5299, 2706, 5304, 5305, 5804, 2368, 2427,
+	  2704, 2705 and 5295 thanks to $ephiroth [mrmagoo]
+	* Updated 2116, 2420, 2519 and 2521 again thanks to Playtester [mrmagoo]
+
+
+2007/05/28
+	* Updated 2355, 2364, 2365, 2366, 2367, 2115, 2116, 2122, 2123, 2124
+	  2125, 2418, 2420, 2422, 2423, 2424, 2425, 2426, 2516, 2517, 2519,
+	  2521, 2527, 2529 and 2530 [mrmagoo]
+	* Fixed descs for 1176, 1422 and 2227 thanks to Playtester [mrmagoo]
+	* Added names and descs for 5300 and 7867 - 7820 thenks to WonderSwan [mrmagoo]
+	* Added descs for 7727 and 7728 thanks to $ephiroth [mrmagoo]
+	* Fixed skill descs for HT_LANDMINE thanks to theultramage [mrmagoo]
+	* Added lots of placeholder items from recent kRO patches [mrmagoo]
+
+2007/04/22
+	* Fixed some 'Undead' to 'Ghost' thanks to theultramage. [Au{R}oN]
+	* Fixed Frost Diver and Napalm Vulcan description based on some Aegis Test thanks to theultramage. [Au{R}oN]
+
+2007/04/19
+	* Added missing mdef bonus on Detale's card thanks to Playtester. [Argatlahm]
+	* Added new entries to the msgstringtable thanks to -o-. [Argatlahm]
+
+2007/04/18
+	* Added more item names and fixes thanks to -o-. [Argatlahm]
+	* Fixed "Refined" item weight thanks to WonderSwan. [Argatlahm]
+	* More Typo Fixes. [Argatlahm]
+	* Added 2 more item names and added new entries to the msgstringtable thanks to $ephiroth. [Argatlahm]
+
+2007/04/17
+	* Fixed more formatting mistakes. [Argatlahm]
+	* Added more Colour Tags to the Description Formatting file. [Argatlahm]
+	* Fixed typo thanks to asterX. [Argatlahm]
+	* Added "Impossible to refine" description on refined equipments. [Argatlahm]
+	* Added Colour coded property description on some new equipments. [Argatlahm]
+	* Added Malaysia Lucas Event Items. [Argatlahm]
+	* Added more dummy data for new items. [Argatlahm]
+
+2007/04/16
+	* More name fixes of some items. [Argatlahm]
+	* Added Thailand Cash Items and Additional Mercenary Potions thanks to -o-. [Argatlahm]
+	* Added 11.3 New Equipment Items thanks to $ephiroth. [Argatlahm]
+	* Added dummy data for missing items. [Argatlahm]
+
+2007/04/15
+	* Little fix with the :^777777 problems. [Au{R}oN]
+	* Corrected item 5083 name from Red Ribbon to Red Tailed Ribbon. [Argatlahm]
+	* Corrected names of items 7521 & 13251 thanks to Playtester. [Argatlahm]
+	* Added Additional Refined Cash items and Potions thanks to -o- and $ephiroth. [Argatlahm]
+
+2007/04/08
+	* Corrected the new card's descriptions with wrong 'Compound on' field. [Argatlahm]
+
+2007/04/01
+	* Fixed some typos according to Playtester and HiddenDragon. [Argatlahm]
+
+2007/03/30
+	* Added new card translations according to Ragnainfo.net. [Argatlahm]
+
+2007/03/25
+	* Item IDs: 5238-5242 renamed to <color>_Mage_Hat instead of <color>_Wizard_Hat for uniformity. [Argatlahm]
+	* Replaced '2007 American Event Items' section to '2007 St. Patrick's Day Event' and added appropriate item names from iRO. [Argatlahm]
+	* Moved item 584 from 'Oversea Event Items' section to 'Hugel Odeng Quest' section and applied translation from iRO. [Argatlahm]
+
+2007/03/24
+	* Removed bonus description of Item ID: 5269 [Argatlahm]
+	 - (no official translated desc bonus yet)
+	* Added pRO Summer Event items. [Argatlahm]
+	* Fixed typos for item ids: 5076,5235,5236,5237, 13168, 13169 [Argatlahm]
+	* Added "Evolved" name to item ids: 5215-5224 [Argatlahm]
+	 - based on pRO's name
+	* Included transfer lock description to the following items: [Argatlahm]
+	 - 5215-5225, 5226-5242, 12925 & 12926, 12932-12934: (All transfer methods except Kafra Storage are locked)
+	 - 2923 & 12924, 12929-1231: (All transfer methods except Trade, Cart, and Kafra Storage are locked)
+	* Used the name "Rag_Star_Badge" instead of "Rok_Star_Badge" for item 7729 [Argatlahm]
+	 - pRO has the tendency to use the term Rok to refer Ragnarok instead of Rag in kRO
+	* Changed color names of item ids: 5227-5242 [Argatlahm]
+	 - Brown --> Gray
+	 - Gray --> White	
+
+2007/03/23
+	* Very Very Very Very.... little fix. [Au{R}oN]
+
+2007/03/21
+	* Added Missing Desc for Items ID: 12193, 590, 7611, 7612. [Au{R}oN]
+
+2007/03/20
+	* Updated desc for 1140 based on info from Playtester [mrmagoo]
+	* Added Old Payon, xmas Lutie and Dragonboat Festival Alberta to mapnametable.txt [mrmagoo]
+	* Updated desc for 4305 based on info from Playtester [mrmagoo]
+
+2007/03/16
+	* Replace 'NO MESSAGE (n)' with the correct phrases. [Au{R}oN]
+	* Very Little fix in pettalkable.xml [Au{R}oN]
+
+2007/03/15
+	* Test? [iKKe]
+
+2007/03/11
+	* Update at least :F [NLZ]
+	 - Some typos, fixes and new items thanks to Argatlahm, Playtester, Peter and theultramage.
+	* ToDo: NJ/GS skills (>.<) and the Merc skills
+
+2007/02/08
+	* Added new items, fixed some others and updated the msgstringtable thanks to $ephiroth [NLZ]
+
+2007/02/03
+	* Fixed 4110 (Ghoul Card) tanks to Pavelloz and Playtester [NLZ]
+	* Added/fixed/corrected items thanks to $ephiroth, Au{R}oN and Argatlahm [NLZ]
+	* Added new items [NLZ]
+	* Fixed BD_ROKISWEIL's Max lvl thanks to[Leon] [NLZ]
+	* Switched GS and NJ skills in the skilldescs (still need to fix te iRO names x_X) [NLZ]
+
+2007/01/20
+	* Fixed msgstringtable and 5243 thanks to Skotlex [NLZ]
+
+2007/01/19
+	* Added recent kRO items [NLZ]
+	* Fixes thanks to $ephiroth [NLZ]
+
+2007/01/12
+	* Updated the formatting doc a bit (still needs changes :P) [NLZ]
+	* Added new items into the kr trans dump [NLZ]
+	* Some item changes [NLZ]
+	 - Fixed LoD Card
+	 - Updated Louises Santa Hat :P
+	 - Changed Luna Bow desc format
+	 - Updated Armeyer Dinze Card according to the recent kRO Patch
+	 - Added new items thanks to $ephiroth
+	 - Other small fixes :)
+	* Removed FA from LK_PARRYING's desc [NLZ]
+	* Updated some Ninja skill :F (still need a tons of work :x) [NLZ]
+
+2007/01/11
+	* Added initial description formatting standards doc to dev folder [mrmagoo]
+
+2007/01/04
+	* Added 0103 items (Nokia 5500 was allready translated :P) [NLZ]
+	* Changed Fuuma to Huuma [NLZ]
+	* Fited 5053's bonus str [NLZ]
+
+2007/01/04
+	* A lot changes, most based on iRO Sakray Ep X.4 changes [NLZ]
+	 - Fixed Evil Snake Lord Card (gives Blind resist, not Confusion)
+	 - Added missing ^ffffff_^000000 to "some" etc items (items 7001+, inspiration from Playtester :P)
+	 - Updated Ep X.4 items and some other
+	 - Added Kiel related quest items
+	 - Updated Gunslinger and Ninja weapons
+	 - Changed all defence to defense
+	 - Changed Kiel Khayr to Kiel Hyre
+	 - Updated map names
+	 - Updated msgstringtable
+	* BTW! Happy New Year ^^
+
+======== Year 2007 ========
+
+2006/12/29
+	* Added year to the dates in Dev/Changelog.txt [NLZ]
+	* Changed some item names according to eA database [NLZ]
+	* Added Elephant Hat (5146) desc and some other fixes thanks to $ephiroth [NLZ]
+	* Added some missing ^ffffff_^000000 to the end of etc files [NLZ]
+	* Fixed some other 'if equiped by xy class' [NLZ]
+	* Merged bonuses where the hp and sp reside in and the changes are equal [NLZ]
+	* Removed dots from lines which are not sentence (lines containing stats, substats only) [NLZ]
+	* Added Book Readind System's book texts [NLZ]
+	* Updated Korean Translation Dump [NLZ]
+	* Added new items from kRO patch 1227 [NLZ]
+	* Changed Beins to Veins and added ve_in02 [NLZ]
+	* Fixed gobline_xmas in pettalktable.txt to the standard form [NLZ]
+	* Fixes to the autocast chances [NLZ]
+	* Updated msgstringtable.txt from pRO patch 1222 (tell me ASAP if something went wrong!) [NLZ]
+
+2006/12/23
+	* Fixed 13106 thanks to AkabaneKurodo [NLZ]
+	* Added Sakray1205 headgears in english (they are recolored/duped) [NLZ]
+	* Minor fixes [NLZ]
+
+2006/12/22
+	* Wiped out korean texts from the itemtables [NLZ]
+	* Syncronized the comments between the itemtables [NLZ]
+	* Added temp plugs for all the new content of recent KRO Sakray patchs (1212 and 1219) [NLZ]
+	* Fixed itemdesc for 4405 (Frus Card) [NLZ]
+	* Fixed recent pets names (Rice Cake and Christmas Goblin)  [NLZ]
+	* Updated mapnames and itemtables thanks to RO Future Wiki [NLZ]
+	* Fixed autocast chances thanks to Playtester (even more accurate than eA DB :P) [NLZ]
+	* Small fixes [NLZ]
+
+2006/12/19
+	* Updated desc for 4405 to tidy it [mrmagoo]
+	* Corrected some engrish/typos in a few places [mrmagoo]
+	* Updated card prefix for 4405 thanks to NLZ [mrmagoo]
+	* Updated name of 5205 thanks to Argatlahm (i think the official pRO name is better too) [mrmagoo]
+	* Updated desc for 4161 thanks to Barron-Monster [mrmagoo]
+	* Updated desc for 2227, 5012,5044, 5051, 5056, 5100, 5129, 5132, 5182, 5183, 5187, 5190,
+	  5202, 5203, 5143, 5152, 5181,1160-1162, 1168 and 1171 thanks t Playtester [mrmagoo]
+
+2006/12/10
+	* Updated desc for 4405 thanks to NLZ (and vicious) [mrmagoo]
+	* Updated card descs for 4334, 4335, 4345, 4350, 4362, 4366, 4373,
+	  4380 and 4388 thanks to Playtester [mrmagoo]
+	* Several fixes not in num2itemdisplaynametable.txt & other misc fixes [mrmagoo]
+	* Added temp names for 12195-12198 and 9028 [mrmagoo]
+	* Added items 5210-5224, 5227-5242, 7701-7703 (partial translations only) from kRO descs [mrmagoo]
+	* Added 4405 to cardpostfixnametable.txt thanks to NLZ [mrmagoo]
+	* Updated desc of 542, 543, 12201 and 5095 as well as names for 543,
+	  5205 and 2676 thanks to $ephiroth [mrmagoo]
+	* Updated desc of 2633 thanks to Playtester [mrmagoo]
+2006/12/05
+	* Added 2632 and 2633 thanks to Playtester [mrmagoo]
+	* Updated descs for 2616, 2621-2626, 2636, 2637, 2645, 2659-2662, 2668 thanks to Playtester [mrmagoo]
+	* Updated desc of 5095 thanks to Playtester [mrmagoo]
+	* Changed 2274 back to 10% resistance thanks to Playtester [mrmagoo]
+	* Updated skill descs for AS_CLOAKING, AS_POISONREACT, BS_WEAPONREPAIR, PR_LEXDIVINIA
+	  and CG_MARIONETTE thanks to theultramage [mrmagoo]
+	* Updated name and desc for 5205 thanks to Argatlahm [mrmagoo]
+
+2006/12/03
+	* Updated descs for 2111, 2116, 2343, 2360, 2358 2420 and 2422 thanks to Playtester [mrmagoo]
+	* Added temp data/names for 5095, 542 and 543 thenks to Playtester [mrmagoo]
+	* Updated cast time of NJ_SUITON according to eA DB thanks to yyCC [mrmagoo]
+	* Updated pettalktable.xml with gobline_xmas thanks to Au{R}oN [mrmagoo]
+	* Updated/added temp names for 12190, 12191, 7603, 5201, 7604, 7605, 7606, 7613, 21299, 12194, 7607,
+	  7608, 2526, 7610, 12193, 590, 5207, 5206, 7615, 7616, 7617, 5208 and 12201 thanks to $ephiroth [mrmagoo]
+	* Updated desc of 5053 thanks to Playtester [mrmagoo]
+	* Move the 'not officially in mapnametable' maps to the correct location thanks to NLZ [mrmagoo]
+	* Updated descs for 2510 and 2628 thanks to NLZ [mrmagoo]
+2006/11/30
+	* Updated desc for 2274 again based on info from kRO descs [mrmagoo]
+	* Updated desc for 2274 thanks to NLZ [mrmagoo]
+	* Updated name and desc for 12200,5204,1225,7614,7618,2676 and 9029 thenks to $ephiroth [mrmagoo]
+	* Add maps not officially in mapnametable.txt, names probably need tweaking though [mrmagoo]
+
+2006/11/26
+	* Fixed 06guild_* map names thanks to NLZ [mrmagoo]
+	* Updated skillnamedesc.txt with proposed Ninja skill names [mrmagoo]
+	* Lots of changes to Ninja skills thanks to Playtester for the info [mrmagoo]
+	   +- Note: Only the kRO skills have been updated for now, and corrections are probably needed.
+	* Updated job requirements for 2336, 2337, 2359 thenks to Playtester [mrmagoo]
+	* Fixed 12193 having wrong display name [mrmagoo]
+	* Updated 7609, 12192 and 5202 thanks to $ephiroth [mrmagoo]
+	* Updated Tracking information and descriptions thanks to Playtester [mrmagoo]
+	* Updated desc for 5207, 5205 and 2676 thanks to NLZ [mrmagoo]
+	* Updated mapnametable.txt and metalprocessitemlist.txt [mrmagoo]
+	   +- http://www.eathena.ws/board/index.php?s=&showtopic=65431&view=findpost&p=693281
+
+2006/11/21
+	* Added missing desc info to 1470, updated descs for 5126,4077 and 1365 thanks to NLZ [mrmagoo]
+
+2006/11/20
+	* Tidied up some formatting and merged a few items from num2itemdesc to idnum2 [mrmagoo]
+	* Added placeholders and started work on items 12225,9029, 7614, 7618, 2676,
+	  7615, 7616, 7617, 5208, 12201 and 5209. Still needs more work [mrmagoo]
+	* Fixed extra #'s on items 2361-2163 in num2itemdisplaynametable.txt [mrmagoo]
+	* Updated Health Conversion (Formula), Mind Breaker (MDEF reduction) and Cicada Skin Shedding
+	  (Skill evasion mention) skill descriptions. [ZeroXell]
+
+2006/11/19
+	* Updated names for items 7459 and 583 as per $ephiroth's suggestion [mrmagoo]
+	   +- http://www.eathena.ws/board/index.php?s=&showtopic=65431&view=findpost&p=672421
+	* Updated NJ_HUUMA description slightly as per sciagator's suggestion [mrmagoo]
+	   +- http://www.eathena.ws/board/index.php?s=&showtopic=120429&view=findpost&p=668728
+	  This will probably need exploring further.
+	* Changed agents -> against in MO_TRIPLEATTACK
+	* Un-commented GD_CHARISMA (no idea why it was commented out) [mrmagoo]
+	* Updated PF_SPIDERWEB description as suggested in the same post [mrmagoo]
+	* Change Silence effect to Silence status as suggested in the same post [mrmagoo]
+	* Updated BS_ORIDEOCON skill desc according to theultramage's translation and Skotlex's info [mrmagoo]
+	   +- http://www.eathena.ws/board/index.php?s=&showtopic=65431&view=findpost&p=667434
+
+2006/11/04
+	* Fixed the following skill descriptions: Chain Combo (Spirit sphere requirement), Gospel (Potion usage restriction), Magic Rod (Delay). [ZeroXell]
+
+2006/10/25
+	* Updated desc of 583,Ketupat Sayur, 7459,Lebaran Card or Idul Fitri Card, 552,Ketupat. Thanks to $ephiroth [Luups]
+
+2006/10/09
+	* Updated and added all the missing content of recent KRO Sakray patchs. Also updated the KTD accordingly. [Haplo]
+	* Added a new file "Korean -Event Ricecake- Pet Dialogs.txt" in Dev folder in case someone has the time
+	  to translate the new pet dialogs that appeared in the korean pettalktable to add them to ours. [Haplo]
+
+2006/09/28
+	* Corrected Land Protector description (removed incorrect Hammerfall mention). [ZeroXell]
+
+2006/09/20
+	* Added temp plugs for all the new items of the KRO Sakray patch. [Haplo]
+
+2006/09/17
+	* Updated some item names (ID 7001, 7017, 7022, 7026) according to the last IRO Sakray patch. [Haplo]
+	* Fixed many inconsistencies/typos everywhere in items and skills files. [Haplo]
+
+2006/09/14
+	* Fixed a missing entry on the previous commit. [ZeroXell]
+	* Updated Moonlight Falling Petal description according to the lastest info. [ZeroXell]
+
+2006/09/13
+	* Fixed Strip/Divest Success Chance formulas in their respective descriptions. Thanks to qazqazqaz for reporting it. [Haplo]
+	* Corrected Unholy Touch (ID 1263) ATK power to 151, according to official KRO description. [Haplo]
+
+2006/09/06
+	* Updated msgstringtable.txt to correct Homunculus displays. [midas]
+
+2006/09/04
+	* Updated the Arrow Crafting skill according to X.4 official database. Thanks to Muad_Dib for the help. [Haplo]
+	* Updated some descriptions according to this week patch. Description of new items, partially translated, has been added to the KTD.
+	  I did not add any temp plug yet because the patch didn't contain the names of the new items �_�. [Haplo]
+
+2006/09/03
+	* Standardized the color format of the 4 basic elements in the item descriptions (Fire, Water, Wind & Earth). [Haplo]
+	* Changed the Ninja skill names in the KRO-fileset to use the romanized japanese names. This is because is more appropriate
+	  for a Japan-oriented job and because KRO gave kanjis as alternate names to their korean names, instead of an english-like name.
+	  Thanks to theultramage, as these names comes from the kanji romanized adaption made by him. [Haplo]
+	* Corrected a card name (ID 4376) to "Lady Tanee Card". [Haplo]
+	* Minor update to item unidentified names according to this week KRO Sakray patch. [Haplo]
+
+2006/09/02
+	* Quick-fix for "Mr. Kim a Rich Man" skill description. [ZeroXell]
+
+2006/08/28
+	* Updated some item descriptions and the metalprocessitemlist.txt file according to the recent IRO Sakray patch. [Haplo]
+	* Fixed Rainbow Cake item (ID 12124) description, thanks to hellokitty2 for reporting. [Haplo]
+	* Fixed Gunslinger Magical Bullet property according to info provided by Vicious_Pucca. [Haplo]
+	* Updated SP costs of Gunslinger Triple Action and Madness Canceller skills. [Haplo]
+
+2006/08/23
+	* Updated item desc's. Thanks to Vicious_Pucca. [Poki#3]
+	* Finally updated Gospel description with the info gathered for a very long time in a topic at RagnaInfo. [Haplo]
+	* Updated several Ninja skill descriptions according to Tharis videos from official servers, thanks to mpeg for reporting them. [Haplo]
+	* Updated SG_SUN_COMFORT skill description, thanks to Vicious_Pucca for his translation. [Haplo]
+	* Added a missing bonus to item 5143 (Kabuki Mask). Thanks to qazqazqaz for reporting it. [Haplo]
+
+2006/08/22
+	* Updated Ninja Illusionary Shadow skill description, each cast consumes 1 Fang. [Haplo]
+	* Updated several items according to this week KRO Sakray patch and added temp plugs for the new items. [Haplo]
+
+2006/08/14
+	* Imported iRO's Episode 10.3 patch content. [Poki#3]
+	* Clarified a lot of skills and did changes to the lines. If any skill desc crashes you, please report it. [Poki#3]
+
+2006/08/10
+	* Changed a couple of "Freyr" to "Freya" that I missed before, thanks to Playtester for telling me. [Haplo]
+	* Fixed LK_JOINTBEAT Maximum Level to 10 in its description, thanks to yyCC for reporting it. [Haplo]
+	* Updated Hammer Fall and Scream skill descriptions with Stun duration of 5 seconds, after some player reports. [Haplo]
+	* Added the NJ_HYOUSYOURAKU Cast Time and Cool Down, according to jAthena info. [Haplo]
+
+2006/08/04
+	* Reverted them back, to bullets [Lupus]
+		http://www.eathena.ws/board/index.php?showtopic=81091&view=findpost&p=613839
+	* Fixed Shell of Blood desc. It's a shell, not a bullet. It goes to shotgun. [Lupus]
+
+2006/08/01
+	* Many item names and descriptions translated, much thanks to Harp and Muad_Dib for providing them. [Haplo]
+	* Fixed the Fire Pillar skill description, it has 1 second Cool Down according to the official websites. [Haplo]
+	* Quick fix to item 2417 name due to a previous confusion. Is now "Freya's Shoes" (Freyr bless the shoes of his sister, Freya). [Haplo]
+	* Changed item 5097 bonuses and its name to "4 Years Anniversary Hat", according to today KRO patch.
+	  Also updated other descriptions and added temp plugs for the new items. [Haplo]
+
+2006/07/31
+	* Adjusted a little the Poison React description. [Haplo]
+	* Updated Poison React with the lastest info. Thanks to Vicious_Pucca for helping out with the translation. [ZeroXell]
+
+2006/07/30
+	* Changed item 4241 name to use its KRO mob name (Archangeling Card). [Haplo]
+	* Slight change to item 5151 name, according to recent IRO Sakray patch. Also added the new official IRO description. [Haplo]
+	* Updated some Gunslinger and Ninja skills, according to info provided by Vicious_Pucca. [Haplo]
+
+2006/07/29
+	* Fixed Combat Knife (ID 1228) bonus to be "resistance against DemiHuman", according to the latest KRO description.
+	  Looks like IRO mistranslated it or is outdated. Thanks to Vicious_Pucca for translating it. [Haplo]
+	* Fixed Moonlight homunculus skill description. [Haplo]
+
+2006/07/28
+	* Corrected a typo on Claymore and Shockwave cool down on skilldesctable. [ZeroXell]
+
+2006/07/27
+	* Updated costs for setting Claymore, Freezing, Shockwave and Flasher traps, according to the lastest info they cost 2 traps to set.
+	  Also updated Remove Trap description to reflect that you only get back a single trap. [ZeroXell]
+
+2006/07/26
+	* Changed again Repair Weapon casting time to 7.5 seconds, I had wrong info. [ZeroXell]
+
+2006/07/25
+	* Changed Repair Weapon skill casting time from instant to 5 seconds as it should be. [ZeroXell]
+
+2006/07/24
+	* Changed ID of item 1173 to 1533 and updated its description according to today KRO patch (now is a 1-handed Sword).
+	  Also added temp plugs for the new items. [Haplo]
+	* Changed back Range of Land Protector/Magnetic Earth back to 3 cells, as shown by videos of official servers (websites are wrong in this case). [Haplo]
+
+2006/07/22
+	* Added more item descriptions, thanks to Harp for translating them. [Haplo]
+	* Updated High Jump/Leap skill description and added the new item names and effects, according to the recent KRO patch.
+	  Thanks to Vicious_Pucca for translating them. [Haplo]
+
+2006/07/20
+	* Fixed Frost Nova description (it have "Area" of effect, not "Range"), plus other minor fixes. [Haplo]
+
+2006/07/19
+	* Fixed equip location of item 5175 (Anonymity Request) according to today KRO patch.
+	  Also added temp plugs for new items. [Haplo]
+
+2006/07/18
+	* Fixed item 12040 to use the official IRO name (Stone of Sage). Also updated item 7224 (Stone of Sage) description
+	  with its KRO description (items 7224 and 12040 have exactly the same description in KRO). [Haplo]
+	* By Playtester request, added a note on the item 7224 description (ETC type item) to indicate that is not used anymore in official servers,
+	  since it has been replaced with a usable version used on Homunculus (item 12040). This way both items can be clearly distinguished. [Haplo]
+	* Added a note to the Heal Homunculus skill description to tell that it has been dropped by Gravity.
+	  Homunculus are currently healed by Potion Pitcher/Aid Potion skill. [Haplo]
+
+2006/07/16
+	* Corrected a bit some item descriptions. [Haplo]
+	* Fixed some errors in the Cloaking and Poison React skill descriptions. [Haplo]
+	* Updated Gravitation Field skill description according to a recent IRO Sakray patch. [Haplo]
+
+2006/07/15
+	* A lot of new item desc. Thank you Vicious :D [Poki#3]
+	* Updated some Assasin skill descriptions, the following skills have been changed: Cloaking, Venom Splasher, Poison React. [ZeroXell]
+
+2006/07/13
+	* Little updates to Cicada Skin Shedding and Soul skills, thanks to auronx for reporting. [Haplo]
+	* Standardized all "Mute" effect to "Silence" effect, thanks to NLZ for reporting it. [Haplo]
+
+2006/07/11
+	* Fixed a few typos in descriptions and changed a little the NJ_NINPOU skill description. [Haplo]
+
+2006/07/10
+	* Updated Arrow Shower skill "Target" field (is Ground now). Also added several % missing in ASPD bonuses of skill descriptions. [Haplo]
+	* Little fix to LK Berserker/Frenzy skill description, thanks to NLZ for reporting it. [Haplo]
+	* Added a new map (que_san04) in the mapnametable, according to today KRO patch. [Haplo]
+
+2006/07/09
+	* Important update to the Land Protector/Magnetic Earth skill description, according to KRO and IRO websites.
+	  Also changed all "Attack Speed" to "ASPD" in the skill files to reduce the descriptions, among other little fixes. [Haplo]
+	* Fixed the Puppy Hat description (ID 5182). [Haplo]
+	* Fixed Turn Undead success formula, thanks to theultramage for reporting it. [Haplo]
+	* Little fix to the area of Moonlit Water Mill skill, thanks to NLZ for noticing it. [Haplo]
+
+2006/07/06
+	* Fixes to description of Orc Lord Card (ID 4135), Poisonous Toad Card (ID 4175, NOTE: the description from IRO seems mistranslated or outdated),
+	  Owl Duke Card (ID 4237) and Chimera Card (ID 4300). Everything according to their current KRO description. [Haplo]
+	* Added names and effects to the new items and some old ones too, thanks to Vicious_Pucca for his translations. [Haplo]
+	* Updated some Ninja skills according with KRO Sakray info. Thanks to RockmanEXE for his report. [Haplo]
+
+2006/07/03
+	* Updated Silver Tiara (ID 5149) to give INT instead of DEX, according to today KRO patch. Also added temp plugs for the new items. [Haplo]
+
+2006/07/02
+	* Fixed Battlefield Textbook (ID 1562) according to KRO description. [Haplo]
+	* A few fixes to some skills. [Haplo]
+
+2006/06/29
+	* Some standardization of the skill description format and other minor changes. [Haplo]
+	* Updated Baseball Cap (ID 5147), an IRO event item, according to the recent IRO patch. [Haplo]
+	* Fixed Venom Splasher skill SP cost according to the KRO website info. Note that the leveluseskillspamount.txt is misleading in this case
+	  because it have 2 entries of AS_SPLASHER with different SP costs, the first is 10+2*SkillLV (as the website) and the second is 30+3*SkillLV. [Haplo]
+
+2006/06/27
+	* Fixed some typos and corrected Morpheus's Hood (ID 5126) description after analyzing the korean description. [Haplo]
+	* Added some item names and descriptions, thanks to Vicious_Pucca for the translations. Also made some order on the Equip Sets descriptions. [Haplo]
+	* Changed all "Al De Baran" references to "Aldebaran". [Haplo]
+	* Fixed the element properties of the Hunter traps. [Haplo]
+
+2006/06/26
+	* Corrected the % rates of autocast of some cards to fit official database. Thanks to Muad_Dib for his assistance. [Haplo]
+	* Updates from today KRO patch. Note that all the Magni's Cap (ID 5122) bonuses except the STR+2 has been removed. [Haplo]
+
+2006/06/24
+	* Little standardization of some city names. [Haplo]
+	* Small fixes to a few card descriptions. [Haplo]
+
+2006/06/21
+	* Every new card has been double checked and a few errors has been corrected. [Haplo]
+	* Added basic info for unimplemented items (dont appear in KRO descriptions), note that the "Not much is known about.." sentence is kept to remark this.
+	  Thanks to Muad_Dib for providing the info from official database. [Haplo]
+
+2006/06/19
+	* Updated some items according to today KRO patch and updated the KTD.
+	  Please note that the "Frigg's Circlet" (ID 5124) set bonus has been eliminated from description. [Haplo]
+
+2006/06/18
+	* Updated several item descriptions and bonuses. Thanks to Vicious_Pucca for translating them. [Haplo]
+	* Changed Advanced Book skill description (is a +% ASPD bonus, not +plain bonus) to fit with the official descriptions. [Haplo]
+	* Fixed Chase Walk skill description, it has a 10 second delay before the STR bonus is received. [Haplo]
+
+2006/06/12
+	* Updated all "Number xx Ball" item names to "Lotto Ball xx", and "Ball Box xx" to "Lotto Box xx" (and their respective descriptions),
+	  according to the latest IRO Sakray patch (2006-6-12data_text.gpf). [Haplo]
+	* Fixed Garm Claw (ID 1815) ATK to 152 (as shown in the latest KRO description), thanks to aresdfe. [Haplo]
+	* Updated item descriptions according to this week KRO patch. ATTENTION, Yellow Novus Card (ID 4382) and Red Novus Card (ID 4383)
+	  had their whole effects swapped in this patch. [Haplo]
+	* Several corrections to the unidentified names of the items, now they faithfully follow KRO denominations instead of IRO (as it was before).
+	  Used the older items to get the correct equivalences between KRO and IRO unidentified names. [Haplo]
+
+2006/06/08
+	* By request, changed all "monster" words to "enemy" in bonuses, except in the case of bonuses
+	  that will never apply to other players (e.g. EXP and item gaining). [Haplo]
+	* Added temp plugs for new items and updated some descriptions according to today's KRO patch. [Haplo]
+	* Updated a name in an item description (7515) to "Schwarzwald" that I missed before,
+	  also fixed Gospel skill description (it is NOT restricted to a weapon) as confirmed at RagnaInfo.
+	  Thanks to NLZ for reporting. [Haplo]
+
+2006/06/03
+	* Standardized some item descriptions. Added KRO bonuses missing in IRO (Unrefinable and Unbreakable). [Haplo]
+	* Fixed the new slotted Tiara and Crown bonuses to INT + 1, thanks to Vicious_Pucca for noticing it. [Haplo]
+	* Fixed some inconsistent names in the mapnametable, used "Schwarzwald" (that means "Black Forest" in german). [Haplo]
+
+2006/06/01
+	* Changed "Dark" element to "Shadow" element, as is known in IRO. [Haplo]
+	* Reverted the "Ghost" to "Undead" changes in the Elements case, since they are indeed different elements as was confirmed on IRO website.
+	  There is a Ghost Element, but NOT a Ghost Race. Thanks to NLZ for reporting this big mistake. [Haplo]
+	* Fixed some minor typos. [Haplo]
+	* Standardized all "Ghost" to "Undead", since they are the same (in race and property case). [Haplo]
+	* Fixed Greatest General Card autocast rate to official X.2 value, thanks to 86com for reporting it. [Haplo]
+	* Updated all the Arrow Crafting item list (and some old item names) to the official X.2, thanks to NLZ. [Haplo]
+	* Fixed the item 5164 name to "Tiara". [Haplo]
+	* Updated some old "Thorned Fruit" names to "Prickly Fruit", thanks to the__android for reporting it. [Haplo]
+
+2006/05/30
+	* Names for the New maps. [Poki#3]
+	* Prefixes for the new cards. [Poki#3]
+	* Updated desc of the new cards, based on today's kRO patch. [Poki#3]
+	* Updated desc of items nr. 7530~7537. [Poki#3]
+	* Added some of the new items (that are new slotted version of old ones), and temp plugs for the rest. [Haplo]
+	* Removed MDEF bonus from item 5151 (Note Headphones), according to today patch. [Haplo]
+	* Changed "Seal Crown" item name to "Phoenix Crown". [Haplo]
+	* Fixed Hammer Fall skill Stun duration to 3 seconds, according to official evidence. [Haplo]
+
+2006/05/29
+	* Added today's big KRO patch to the KTD, also changed some "Compound on" fields according to the card update.
+	  Beware that around 50 card descriptions must still be updated. [Haplo]
+	* Fixed Warmth and Comfort Star Gladiator skills, thanks to auronx. [Haplo]
+
+2006/05/28
+	* Changed item 12106 name (now is Jeweled Box) and description to KRO official one, thanks to Vicious_Pucca. [Haplo]
+	* Fixed Combat Knife and Infiltrator item bonuses to current KRO description, thanks to NLZ. [Haplo]
+	* Fixed Resist Thunder Potion ingredients, thanks to kearth. [Haplo]
+	* Added missing Freeze resistance bonus of item 5115, thanks to qazqazqaz. [Haplo]
+
+2006/05/24
+	* Some minor tweaks to skill descriptions. [Haplo]
+	* Updated NPC location to Hugel in Falcon Mastery description, thanks to Lupus for pointing it out. [Haplo]
+	* Fixed item 5129 description, thanks to qazqazqaz for reporting and Vicious_Pucca for translating the correct description. [Haplo]
+	* Rephrased some item descriptions (regarding the Stun effect). [Haplo]
+
+2006/05/22
+	* Corrected some 1st jobs skill descriptions. These are Provoke (corrected attack and defense values), Magnum Break (bonus damage),
+	  Bash (extra hit and stun chance), Throw Stone (does not ignore reduction cards), Double Attack (bonus hit only for Double Attack),
+	  Signum Crucis (defense reduction), Decrease Agi (duration should be halved on players), Increase AGI (added a little extra info),
+	  Pneuma (it does block ranged skills) and Safety Wall (can block monster skills in close-range). [ZeroXell]
+	* Changed Hugel city map name, according to current KRO mapnametable, thanks to NLZ. [Haplo]
+	* Fixed some Star Gladiator skills, thanks to auronx. [Haplo]
+
+2006/05/19
+	* Fixed a few typos and minor changes. [Haplo]
+
+2006/05/18
+	* Changed all "tolerance" to "resistance", and some standardization. [Haplo]
+	* Fixed a couple of errors from my last commit, thanks to NLZ for noticing it.
+	  Also fixed some typos in item and skill descriptions, thanks to theultramage. [Haplo]
+	* Fixed Fire Pillar and added the missing Throw Tomahawk skill description,
+	  that appears when using the item 1368 (Tomahawk). Thanks to auronx. [Haplo]
+	* Updated the item name and desc, based on Vicious's translations. [Poki#3]
+
+2006/05/15
+	* Added temp plugs for the new items of this week patch, and updated KTD accordingly. [Haplo]
+	* Little fixes to some TaeKwon and Soul Linker skills, thanks to auronx for reporting them. [Haplo]
+
+2006/05/14
+	* BIG SKILL DESCRIPTION UPDATE. TaeKwon, Star Gladiator and Soul Linker skills are fixed thanks to auronx efforts, Gunslinger skills are fixed
+	  thanks to RockmanEXE work. Big thanks to both. [Haplo]
+	* Fixed HP/SP consumption of WE_FEMALE and WE_MALE wedding skills, thanks to Drakee. [Haplo]
+
+2006/05/11
+	* Changed 1463 (Halberd) forging requirements in metalprocessitemlist.txt, to be consistent with the forge skill description. [Haplo]
+	* Commented a polish word in manner that can cause trouble for spanish common words like "participacion". [Haplo]
+	* Fixed more spelling, thanks to theultramage for his revision. [Haplo]
+	* Added extra info in the Iron Fist Card description, thanks to Vicious_Pucca. [Haplo]
+	* Fixes to AC_CONCENTRATION, BA_FROSTJOKE and PR_REDEMPTIO skill descriptions, thanks to Zeno83. [Haplo]
+	* Fixed Monk Blade Stop skill description, it does not work on bosses (checked in KRO and IRO in-game skill descriptions). [Haplo]
+	* More Polish words in manner.txt. If any word happens to block any normal word in your language, please
+	  write about the problem on the forum so it can be fixed. [Poki#3]
+	* Changed one line in the msgstringtable a bit. The one that comes up if you type the password incorrectly. [Poki#3]
+	* More spelling corrections :P [Poki#3]
+	* Made a few spelling corrections [midas]
+
+2006/05/08
+	* Standardization... all the "Chaos" effect has been changed for "Confusion" effect, since they are the same and is the term used by eAthena,
+	  thanks to theultramage for the report. [Haplo]
+	* Fixed Spear Mastery "Required For" field, since it was causing Crusaders to get confused with Pierce. Thanks to the__android for the report. [Haplo]
+	* Fixed cards 4239 and 4309 descriptions, confirmed with KRO descriptions, thanks to Zeno83 for reporting it. [Haplo]
+
+2006/05/04
+	* Fixed Assumptio "Target", item 2202 (Sunglasses) lacking its Blind bonus (IRO desc show it for both 2201 & 2202), and a typo in the msgstringtable.txt,
+	  thanks to Zeno83 for reporting them. Also fixed a little typo in the Lord of Death Card description. [Haplo]
+
+2006/05/03
+	* After receiving confirmating info from Vicious_Pucca, changed items 4173 (Demon Pungus Card) and 4301 (Killer Mantis Card) to show 20% of autocast,
+	  thanks to qazqazqaz for reporting this error. [Haplo]
+
+2006/05/02
+	* Changed Dancer Throw Arrow skill description to Casting Time 1.5 sec and no Cool Down, apparently the official descriptions are wrong.
+	  Thanks to Zeno83 for reporting and Tharis for confirming this anomaly. [Haplo]
+
+2006/05/01
+	* In the "Required For" field of skill descriptions, removed (L1) for those skills that have only 1 level,
+	  since is redundant. Also rearrenged some skill fields, so they follow the Template order. [Haplo]
+	* Changed all "Casting Time = 0" to "Casting Time = Instant". [Haplo]
+	* Fixed Absorb Spirits description, thanks to Skotlex for pointing it out. [Haplo]
+	* Fixed forging formulas, now eAthena formulas are used (that comes from JRO info). Thanks to kairen for reporting. [Haplo]
+	* Fixed typos in item and skill descriptions, thanks to Zeno83. [Haplo]
+	* Some updates to the Ninja skills, thanks to RockmanEXE and the KRO official webzine. [Haplo]
+	* Changed cards 4156, 4160 and 4173 to use their KRO mob names, "Steam Goblin Card", "Antique Firelock Card"
+	  and "Demon Pungus Card" (term probably derived from Punk). Thanks to Playtester for pointing out. [Haplo]
+
+2006/04/30
+	* Minor change in msgstringtable to be more applicable to Gunslingers. [Haplo]
+	* Fixes of consistency and typos in the item descriptions. [Haplo]
+	* Minor adjustment to Defender skill description. [Haplo]
+	* Changed all "Kazema" to "Fuuma". Kaze is the reading of the 1st kanji (that means Wind) when it is used alone (kun-yomi),
+	  but when used in a compound word like this one (that means Wind Demon), the reading change to Fuu (on-yomi), as in taifuu, ofuro, etc.
+	  Since is a japanese word, japanese rules apply. Thanks to Remoldy Blach for pointing it out. [Haplo]
+
+2006/04/26
+	* Changed "Cinocas Case File" to "Shinokas Case File" [Poki#3]
+	* Changed "Arrow" to "Ammunition" in msgstringtable.txt so that it applies to Gunslingers as well as Archers. [Poki#3]
+	* Removed "DEF+3" from Safety Ring. The def bonus is already listed in "Defense: 3" and was confusing players that
+	  the accessory should give +6 DEF overall. [Poki#3]
+	* Probably some things that I forgot xD [Poki#3]
+
+2006/04/25
+	* Another fix to TaeKwon Mission description, thanks to Vicious_Pucca. [Haplo]
+	* Fixed Defender and TaeKwon Mission descriptions, thanks to theultramage and Playtester
+	  respectively for reporting problems with these skills. [Haplo]
+
+2006/04/24
+	* Added a VIT +1 bonus to the item 2520 (Goibne's Spaulders), according to today's KRO patch.
+	  Also added temp plugs and updated KTD with the new items. [Haplo]
+
+2006/04/22
+	* Vicious_Pucca confirmed that the "Grove Card" is "Green Iguana Card", so changed it to the proper name. [Haplo]
+	* Removed "Old Portrait" from the list of items that can be used to craft arrows in the skill descriptions. [Haplo]
+	* Changed a little the skill description format. All the "Cast Time: 0 sec" to "Cast Time: Instant",
+	  "and Cool Down: 0 sec" to "Cool Down: None". [Haplo]
+
+2006/04/20
+	* Fixed item 2647 (Nile Rose) description, the HP bonus is +10 HP, plain, not +10% HP. [Haplo]
+	* Changed some terms to use Maximum HP and Maximum SP as standard. [Haplo]
+
+2006/04/19
+	* Standardized some terms, changed all "Accuracy" to "HIT". Deleted all % relating to HIT and Flee bonuses, since in-game they has
+	  always worked as plain bonuses, fixed some typos. [Haplo]
+	* Changed the new hat to "Brazil Event Hat" (idea taken from Landarma), because "Event Hat" is a poor excuse of a name
+	  and even the description says that its using their national flag colors, in a "Brazil Event" section. [Haplo]
+	* Changed the Roguemaster's Bow (ID 1719) to be used only by Thiefs again. [Haplo]
+	* Completely deleted LV 8 description from "Basic Skills", since Gravity dropped the idea and was deleted from KRO and IRO descriptions.
+	  Reverted the Pick Stone skill Cast Time and Cool Down to 0.5 and 0 secs respectively. Also changed the Arrow Shower after-cast delay. [Haplo]
+	* Committed the desc of the new Cards and Items. A lot of work, but it was worth it. Now just keep track of the patches for them :P [Poki#3]
+
+2006/04/17
+	* Committed huge patch into the Korean Translation Dump for translating incoming new items (84 new descriptions). ^^; [Haplo]
+	* Deleted some unneeded lines. [Haplo]
+
+2006/04/14
+	* Fixed some msgstringtable lines that confuse overweight with Inventory capacity (100 different items)
+	  when trying to pick an item, thanks to kyoki for providing more clear sentences.
+	  And big thanks to erKURITA for helping me to test and found other ambiguous lines. [Haplo]
+	* Fixed TF_PICKSTONE Cast Time and Cool Down, according to ladyshadow report from an AEGIS server. [Haplo]
+
+2006/04/11
+	* More updates to Gunslinger skills, specially Fling and Rapid Shower descriptions, thanks to RockmanEXE.
+	  The DEF reduction value in Fling's effect description was tested and confirmed in KRO Sakray. [Haplo]
+
+2006/04/10
+	* Minor changes in item descriptions according to last IRO patch. Added a temp plug for today new item 5148 and updated KTD. [Haplo]
+
+2006/04/09
+	* Changed items 1113, 1114 and 1115 to "Scimitar", since that term is much more used and correct for this weapon than the previous.
+	  Fixed a typo in item 12117 item name, is "Lightning Elemental Converter", not "Lighting". Also some minor adjustment in other Two-Handed weapons. [Haplo]
+	* Fixed inconsistencies between some item names used in the skill descriptions and the real name of those items, thanks to DeathMeat. [Haplo]
+	* Fixed a typo in NJ_ZENYNAGE description and the item requirements for AM_CREATECREATURE, thanks to DeathMeat. [Haplo]
+	* Changed RG_FLAGGRAFFITI catalyst according to current IRO description. Also added a note for that skill and RG_CLEANER to indicate
+	  that these skills are NOT implemented by Gravity yet. Please note that the catalyst mentioned for both skill DON'T exist yet. [Haplo]
+	* Fixed TK_HPTIME and TK_SPTIME skills descriptions. Info in KRO website and RagnaInfo indicates that these skills
+	  CEASE to work when overweight. [Haplo]
+	* Updated description for GS_DESPERADO, thanks to RockmanEXE again for his report from KRO Sakray. [Haplo]
+	* Added some minimal extra info to AM_CULTIVATION from IRO files, and some extra cosmetic changes in skill descriptions. [Haplo]
+
+2006/04/08
+	* Added more info and updates regarding Gunslinger and Ninja skills. Big thanks to RockmanEXE for his research on Gunslinger skills. [Haplo]
+	* Fixed some items displaying +% Flee bonus when they really give a plain +Flee bonus. This was IRO's mistake, since KRO descriptions
+	  show them as plain +Flee bonus. Thanks to qazqazqaz for pointing out the problem. [Haplo]
+	* The skills TF_MISS and BA_WHISTLE will appear now as giving plain +Flee Rate bonus, despite the websites showing a %.
+	  This is because in reality they really work this way, and to avoid further confusions. Thanks again to qazqazqaz for pointing it out. [Haplo]
+
+2006/04/06
+	* Fixed damage formula of PA_PRESSURE, thanks to foobar for pointing it out. Also added a note to HW_SOULDRAIN description to indicate
+	  that it only works on targeted spells and NOT area spells, plus some minor adjustments in the abbreviations used. [Haplo]
+
+2006/04/04
+	* Added some descriptions, thanks to Vicious_Pucca translations. [Haplo]
+	* Fixed several Alchemist/Creator skill descriptions, thanks to DeathMeat and NLZ. Modified AM_TWILIGHT skill descriptions with info from IRO files.
+	  Also set NJ_KIRIKAGE after-cast delay to 0, according to today patch. [Haplo]
+	* Added several item names and descriptions, thanks to Landarma and Muad_Dib, the rest will have temp plugs meanwhile. [Haplo]
+	* Fixed the encrypted text in the KTD, now that I discovered how to do it. [Haplo]
+
+2006/03/30
+	* Changed items 1245 & 1246 to "Cinquedea" and item 2520 to "Goibne's Spaulders". IRO use these names and they are the proper denomination
+	  for this italian sword and piece of armor. Changed descriptions to reflect this. [Haplo]
+	* Changed item 12135 name, and item 7360 name and description to those used by current IRO translations. [Haplo]
+	* Removed "RAW Translations" from Dev folder, since all of them have an official translation now. [Haplo]
+	* Reverted item 4167 to "Neraid Card" to fit the monster's name. Truly nereids have nothing to do with Gravity's monster.
+	  Why they have to be so inconsistent. >.< [Haplo]
+	* Corrected KRO skill name typos, we dont need to follow their bad orthography. Updated skill descriptions with the new names. [Haplo]
+	* Changed back item 4167 to "Nereid Card". Is the name used by IRO in their latest patch (March 27th, 2006-3-27data_1.gpf). [Haplo]
+	* Reverted Vesper Core's unidentified names back to "Accessory". Because IRO did that in their latest update (March 27th, 2006-3-27data_2.gpf),
+	  and KRO files uses "Accessory" too. [Haplo]
+	* Minor fixes to card names, map names... nothing much. [Poki#3]
+
+2006/03/29
+	* Changed ALL "Star Knight" references to "TaeKwon Master" in IRO skill descriptions, since this is the new name IRO implemented
+	  in their latest skilldesctable (March 13th), all over the file. But they havent updated skillnametable for SL_STAR yet.
+	  Don't blame me, blame IRO. >.> [Haplo]
+	* Standardized some terms. [Haplo]
+	* Fixed some skill descriptions, thanks to NLZ and ZeroXell for their reports. [Haplo]
+	* Added a note to indicate Event Bonuses that no longer work once the event is finished, thanks to Lupus for pointing it out. [Haplo]
+	* Fixed some skill SP costs according to latest KRO leveluseskillspamount.txt. [Haplo]
+	* Changed some item descriptions according to today KRO patch and Lupus's note. [Haplo]
+	* Changed a line in msgstringtable.txt according to latest IRO file. [Haplo]
+
+2006/03/26
+	* Added 1 Red Gemstone as a catalyst for Venom Splasher, thanks to Setzer. KRO description mention it. [Haplo]
+	* Fixed Mammonite "Required For" field, thanks to Raid for reporting it. [Haplo]
+	* Fixed some "Applicable Job" fields in item descriptions, according to current KRO idnum2itemdesctable. Big thanks to KarLaeda for
+	  checking inconsistencies between eAthena database and our descriptions, which resulted in a checking of the KRO descriptions. [Haplo]
+
+2006/03/23
+	* Fixed several consistency errors among the files in items and skill descriptions, and some typos. Changed item 2282 name when Unidentified
+	  from "Heaven Ring" to "Hairband", according to current KRO num2itemdisplaynametable. Corrected default and -hybrid skill descriptions for
+	  MC_IDENTIFY using IRO name even when they are using KRO name in the skillnametable ^^;. Also added the now known CR_ACIDDEMONSTRATION
+	  damage formula to the description. [Haplo]
+	* Little fix on ST_PRESERVE description, thanks to BoomDivX for noticing. Added some missed changes on the GS and NJ skills. [Haplo]
+
+2006/03/22
+	* added this weeks balances for GS [midas]
+
+2006/03/20
+	* Added an explanation for the empty "Applicable Job" fields of items 5044 and 5051. Corrected SA_CREATECON skill description's recipies
+	  to match the latest KRO skilldesctable (March 14th), changed ammount and names to match those used in the item files (verified the items
+	  identity by comparing the korean names in description with the KRO idnum2itemdisplaynametable, to get their ID). [Haplo]
+
+2006/03/19
+	* Updated GS/NJ items with the changes done in the last KRO patch. [Haplo]
+
+2006/03/17
+	* Changed ATK for MATK in Estin and Estun skills, thanks to auronx, along with other minor changes in skill descriptions. [Haplo]
+
+2006/03/15
+	* Fixed item 1718 weight according to current KRO description, thanks to KarLaeda. [Haplo]
+	* Fixed minor typos. [Haplo]
+	* Added 13/03 skill balances except "When using Lightning Spear of Ice on top of Hidden Water, at maximum skill level,
+	  will add 20% bonus damage to Lightning Spear of Ice. Also, Water Ball and Aqua Benedicta's "effective range"
+	  will also be decreased." 'cause i cant make sense of it, added to Todo [midas]
+	* Fixed item 1719 Applicable Job, active guild skills Cast Time, GD_EMERGENCYCALL description and many "Required For" fields in skill files.
+	  Also changed 2 wrong "Applicable Job" for "Applicable Pet". All this thanks to KarLaeda and his hard work. [Haplo]
+	* Changed the NJ "Raging Dragon of Fire" skill name in default and "-iRO" to the better and shorter "Raging Fire Dragon". [Haplo]
+	* Fixed typos here and there. In "Required For" field, now "Bard & Dancer" or "Clown & Gypsy" means a skill shared by both jobs
+	  that can be used independently; and "Bard/Dancer" or "Clown/Gypsy" means an ensemble skill shared by both jobs that must be
+	  executed by both. Also added "-SoulLinked" to those skills that can be obtained only through the Soul Linker skills. [Haplo]
+
+2006/03/13
+	* Added Level Dependencies to GS/NJ [midas]
+
+2006/03/11
+	* Merged update in SP costs for GS and NJ skills made in the default skilldesctable, into the "-iRO" and "-hybrid" files. [Haplo]
+	* Merged the following Poki#3 work for items. The Gunslinger weapons received new IDs and were reorganized according to the new numbers.
+	  Updated the description of the Gunslinger and Ninja items.
+	- Maybe rename item 7517 to "Magical Gold Coin"? It would match the item description. [Haplo]
+	* Reverted the change of the unidentified names of items 13006 to 13009, and 13012 to 13015; because of the update in their descriptions.
+	  They are "Dagger" again, although I think is absurd that Gravity consider the Murasame as a dagger. <_< [Haplo]
+	* Changed "Foot Gear" references to "Footgear", as is more consistent with the use of "Headgear" in descriptions. [Haplo]
+	* After comments received about the format ":^777777 ", a preceding space is added ONLY for the item descriptions... to " :^777777 "
+	  This way, the people that like the old format for items will see it in-game the same as before, while maintaining readability. [Haplo]
+	* Fixed more typos in the new skills and added a missing "KRO Name" for GS_RAPIDSHOWER in the "-hybrid" descriptions. [Haplo]
+
+2006/03/10
+	* Finished GS/NJ skills. we still need more info, i have left the sp cost and the delays unedited so we can complete them easier.
+		- hybrid tables have modified names that sound better.
+		- still to do: sp cost and delays
+		- what id is the gold coin used by GS? we should give a special name to that one "Dime" or something.
+		- there are two items called "Gold Coin" in the item tables maybe one should be renamed "Gold Doubloon" to prvent mismatch.[midas]
+	* Removed duplicated GS skill names and descriptions, the names given by midas were kept. Fixed some romanized Ninja skill names.
+	  Sorted them with GS skills first and NJ later to match their job IDs (GS= 24, NJ= 25), for both names and descriptions.
+	  Removed "IRO Name" and "KRO Name" fields from GS and NJ skills, since they will not be needed until IRO implement them.
+	  Fixed typos of the new skills up to this point. [Haplo]
+	* Updated the "-iRO" and "-hybrid" skillnametables with the skill names for GS and NJ provided by the default skillnametable.
+	  - The "-iRO" and "-hybrid" skill descriptions for GS and NJ will be updated later, once they are finished. [Haplo]
+	* Fixed ST_CHASEWALK description with correct STR bonuses, thanks to VNOM. [Haplo]
+	* Reorganized items 13006-13015 descriptions to follow the itemdisplaynametable numeric order. [Haplo]
+
+2006/03/09
+	* Began work on ninja and gs skills. [midas]
+	- i come to think of, we do 3 times the work just for changing skill names, mabe we should
+		have a single file and provide different skill names through a diff. would be easier.
+	* Fixed some format related typos found, and made some missed format changes. [Haplo]
+
+2006/03/08
+	* Fixed crashed text in changelog in last update. [Haplo]
+	* Changed unidentified names of 13006 to 13009, and 13012 to 13015, from "dagger" to "sword" to be consistent with the items
+	  description. Also changed "Kazemashuriken" for "Kazema Shuriken", and fixed related missed entries (Wind Ghost to Kazema). [Haplo]
+	* More standardization and fixed some typos. As requested by KarLaeda, the use of spaces has been standardized in the items and
+	  skills files; from " : ^777777", ":^777777", ": ^777777" and ":^777777 "... to only ":^777777 ", color format followed by space.
+	  The change will not be noticeable in-game, but it improves the readability of the text with word processors. [Haplo]
+
+2006/03/07
+	* SL Skills, clarified description. minor changes to other skills.
+	  - ppl be careful with the skilldescs, if a text line is too long it crashes the client [midas]
+
+2006/03/06
+	* Desc for GJ and NJ Equip (By Doddler, based on jRO) [Poki#3]
+
+2006/03/02
+	* Added GS and NJ Equip (plus some leftover items) [Poki#3]
+	* Added Ninja to the "Applicable Job" section (Yeah. Gravity already did that Oo) [Poki#3]
+
+2006/02/28
+	* Changed Fricco's Shoes name to Freyr's Shoes, since is a much more widely known name for this god
+	  and is consistent with the name used in the description. [Haplo]
+	* Standardized and reorganized a little the item files, as preparation for the incoming new NJ and GS equipments. [Haplo]
+
+2006/02/26
+	* Some minor typos fix here and there. Updated some files in Dev folder. [Haplo]
+	* Added skillnametable-hybrid.txt and skilldesctable-hybrid.txt. These files use mix flavored skill names between KRO and IRO,
+	  and the skill names are decided upon Manipulator's discretion. The are no preference between KRO and IRO names for these files;
+	  if the KRO skill name is used, the official IRO name is displayed at the bottom of description, if the IRO name is used,
+	  the official KRO name is displayed at the bottom of description. If the name is different than both officials, both of them are
+	  displayed at the bottom of description, with KRO Name preceding IRO Name. [Haplo]
+	* Hopefully final fixes to the item desc and msg string table. Thanks to Haplo and Kumori. [Poki#3]
+	* Changed all "Skel" to "Skeleton" (excluding Skel-Bone) [Poki#3]
+
+2006/02/24
+	* Removed unused skills from the "Required For" field. [Poki#3]
+	* Some minor item desc fixes. [Poki#3]
+
+2006/02/23
+	* Typo check of the last big patch. Fixed several mythologically incorrect item descriptions, some typos in msgstringtable,
+	  typos in skill descriptions and some missing name changes. [Haplo]
+	* Little update to the Readme.txt and Todo.txt file. [Haplo]
+
+2006/02/21
+	* Major import from iRO's Ligthalzen patch [Poki#3]
+	* Changed new skill names in iRO tables to mach iRO (Exept 2 skills...) [Poki#3]
+
+2006/02/20
+	* Change of all Sight Rasher references to Sightrasher, thanks to Manipulator comments. [Haplo]
+	* Added a missing temp item plug (ID 12137) in idnum2itemdisplaynametable.txt and num2itemdisplaynametable.txt. [Haplo]
+
+2006/02/18
+	* Typo hunt of pettalktable.xml, and some else found around. Added lines <perfor_1>, <perfor_2>, <perfor_3> and <perfor_s>
+	  for all those pets that were missing them (IRO table don't have them, but KRO table do), so now all pets will speak
+	  when doing performances. Because of current eAthena development the line <perfor_s>, displayed at special performance,
+	  is also displayed at login (instead of <connect>); so if you find it too annoying, you can delete the <perfor_s>
+	  lines to avoid this behavior. Also standardized the format of the file. [Haplo]
+	* Being now all files fully checked, I declare these files 99% typo free and give my Haplo ISO 9001 Certificate of Quality ;) [Haplo]
+
+2006/02/03
+	* Added Guild skill Charisma description. The desc is commented by default, since it glues to the precedent skill description.
+	  This skill was dropped by Gravity, but is now added in the files just for completeness. [Haplo]
+	* 3rd and final Stage of the skill updates:
+	- Fixed the Tornado Stance missing line in iRO-Desc that I deleted by accident before. Thanks to auronx for reporting it.
+	- Standardized some terms and abbreviations used in the formulas that appear in some descriptions.
+	- Fixed typos everywhere. [Haplo]
+	* Fixed a little typo in item 7399 description (that didn't match with the item's name). [Haplo]
+	* Commented ALL the description lines of the commented items (Gunslinger and Ninja items), didn't found an easier way,
+	  to avoid them being glued to Wandering Bard's Bow and Wind General descriptions. Thanks to auronx for reporting it. [Haplo]
+
+2006/02/02
+	* Updated items 2659, 2660, 2661, 2662, 7399, 7400, 7401, 7402, 7403, 7404 and 7173. [Poki#3]
+
+2006/01/30
+	* Made kRO Skill Translations the Default ones. [Poki#3]
+	* Fixed some Item names. [Poki#3]
+	* Reverted Lupus's change for now. Theres no such thing in kRO's Desc! [Poki#3]
+	* Added +1 INT,+1 DEX to 5102#Blank_Eyes (Round Eyes) [Lupus]
+	* Corrected items to "Citrine" and "Rudra's Bow", thanks to NLZ. [Haplo]
+	* 2nd Stage of the skill updates:
+	- Little corrections in skillnametable-kRO.txt
+	- Updated skilldesctable-kRO.txt to be fully consistent with KRO name table. The rules of the changes are the reverse than before,
+	  KRO Name precede IRO Name in description when the skill name used is not the official KRO name. [Haplo]
+	* Fixed some missed name changes and typos here and there. Next step is a full typo search of all skill files. [Haplo]
+
+2006/01/26
+	* Reverted some skill names back to there proper ones. [Poki#3]
+	* After cooking this thing for over a week, here is the 1st Stage of the skill updates (since is longer than I thought):
+	- Changed obsolete "Attack Weak Point" for "Fatal Blow", thanks to NLZ.
+	- Removed duplicate "Require for" line at GD_BATTLEORDER, thanks to timexy.
+	- Made the default skillnametable more iRO like using the updated iRO skill files present in their sdata.grf,
+	  since now we have an alternate kRO-name version. Some names were left unchanged after suggestions of Poki#3,
+	  Manipulator and midas. Some because their name is too popular (Asura, Spiral Pierce),
+	  default name don't match well with skill (Summon Flora, Spear Dynamo), etc. For the KA and ES Soul Linker skills,
+	  those in the name table were used, I think that Vicious will know better if they must be changed.
+	- Changed skilldesctable.txt accordingly to be fully consistent with the name's table. Rules of these changes are:
+		1) iRO name is prefered.
+		2) If the iRO name is different from kRO, the kRO name is displayed at the bottom of description.
+		3) If the only difference between iRO and kRO is a compound vs. uncompound word (Demonbane/Demon Bane), 1 was chosen for both.
+		4) If an alternate name is used, the official iRO name is displayed at the bottom of description.
+		5) If the alternate name is NOT the official kRO name, the kRO name is also displayed below of the iRO name in description.
+	- Corrected some names in skillnametable-kRO.txt to use the official names found on kRO website when an english name
+	  was given in parethesis.
+	- Corrected Frenzy Lord Knight Skill requirements (currently don't have, only Job level 50). [Haplo]
+	* Corrected few typos, 2nd Stage will be the consistency check of kRO descriptions with the kRO name table.
+	  Serious typo search of skill files will come later. If I missed something, please let me know. [Haplo]
+
+2006/01/24
+	* Fixed Dryad Card and Karakasa Card. New desc for item 12134 [Poki#3]
+
+2006/01/17
+	* Changed remaining Taekwon > TaeKwon, fixed a couple of typos. [Haplo]
+	* Changed Luna Bow to Lunar Bow, thanks to NLZ, and modified the description a bit. [Haplo]
+	* Typo hunting on mapnametable, metalprocessitemlist and [custom]monstertalktable. Hunt was good. [Haplo]
+	* Renamed "ba_frostjoke2.txt" to "[alternative]ba_frostjoke.txt" [Poki#3]
+	* Renamed "monstertalktable.xml" to "[custom]monstertalktable.xml". [Poki#3]
+	  Monster talking is now disabled by default as it it not implemented on official servers.
+	  If you want to use it, go ahead and rename the file.
+	* Updated desc of the /skillfail command [Poki#3]
+	* Taekwon > TaeKwon [Poki#3]
+	* Added TaeKwon to some items "Applicable Job" section [Poki#3]
+	* Some item translations by Vicious ;] [Poki#3]
+	* HOPEFULLY Fixed Champions Combos (Especially Tiger Knuckle Fist. The skill names where BADLY messed up) [Poki#3]
+
+2006/01/16
+	* Disabled Gunslinger and Ninja Equips completely. kRO removed them from the client. [Poki#3]
+	* Temp plugs for 2006/01/17 items [Poki#3]
+
+2006/01/15
+	* Fixes to the previous skill update. Thanks, Haplo. [Poki#3]
+
+2006/01/14
+	* Updated some skill names. [Poki#3]
+	* Added Flavor Text to Ninja skills. They describe the overall nature of the techniques.
+	  Big Thanks to Fox for the help! [Poki#3]
+	* Names for 4 Ninja Weapons by Vicious. [Poki#3]
+
+2006/01/12
+	* Knive -> Knife [midas]
+	* Fixed a missing "0" in Martin Card. Thanks to Gepard [Poki#3]
+	* Disabled 2 more items <_< (1152 and 1153) [Poki#3]
+	* Temporarily disabled items 1151 and 1154 from the new Ninja Set. There ID's collide with older items! [Poki#3]
+
+2006/01/11
+	* Final (i hope) Fixes to Frost Joke (By Haplo) [Poki#3]
+
+2006/01/10
+	* "Frost Jokes" and "Screams" have a fixed number of lines. Having discovered this I took some lines from
+	  ba_frostjoke3 and moved them to ba_frostjoke so that they fill in the hole. Having done that,
+	  ba_frostjoke3 became obsolete and deleted. Similar things have been done to ba_frostjoke2 and dc_scream [Poki#3]
+	* "Die, Typos, DIE!!!" - Haplo [Poki#3]
+	* Added 2006/01/10 Items (WTF? NINJA Oo!) (Some items don't have desc) [Poki#3]
+
+2006/01/09
+	* Vicious Translations and 2006/01/03 Patch changes: [Poki#3]
+	 - You need Level 3 or more in Cloacking, or Shinobi card will be limited to walls.
+	 - Desc for items: 7489, 7490, 13201, 13202, 13203, 13204, 13205, 13206, 13207,
+			   2668, 12136, 7518, 12135, 7517, 7487, 7488, 7497, 7499, 7501,
+			   7502, 7503, 7504, 7505, 2357, 2421, 2524, 7510, 7511, 7512,
+			   7513, 584, 12133, 7514, 7515. Thanks again Vicious ;]
+
+2006/01/08
+	* Fixed typos in dc_scream.txt, ba_frostjoke.txt and ba_frostjoke3.txt (Thanks to Haplo) [Poki#3]
+	   ba_frostjoke2.txt also contains some errors, but I have to check something in game.
+	* Fixed typos in 3 Card Prefixes (Thanks to Haplo) [Poki#3]
+	* Fixed one "Demi-human" in DC_WINKCHARM (Thanks to Haplo) [Poki#3]
+
+2006/01/07
+	* Removed "of the Sun, Moon and Stars" from skillnametable's. They fit the skill tree properly now. [Poki#3]
+	* Made the unidentified item text shorter, so you can we the items weight without scrolling down. [Poki#3]
+	* Framework for new items. Vicious, please read the new file in the Dev Folder. [Poki#3]
+	  Item names for Guns and Bullets are by Doddler of RagnaInfo. Rest by Landarma of eAthena.
+	* Changed Attack of item 13100 from 100 to 20. [Poki#3]
+	* Change some msgstringtable lines so that they fit more to the moment they pop-up. [Poki#3]
+	* New Desc for more items. Typos, ph3ar Haplo ;> [Poki#3]
+	* 1 sec cast time -> Stone Curse [Lupus]
+
+2006/01/06
+	* Removed a typo - single quote mark [Lupus]
+	* More of Haplo's fixes [Poki#3]
+	* Desc of some of the new items by Vicious [Poki#3]
+	* Fixed "Jupiter Thunder" > "Jupitel Thunder" and "Jumprope" > "Jump Rope" [Poki#3]
+	* Changed "Demi Human" and "Demi-Human" to "DemiHuman" [Poki#3]
+
+2006/01/05
+	* I've delayed the update for to long. Meany small fixes thank's to the eA Community [Poki#3]
+	 - Haplo, Zephiris, incomplete, Manipulator (hope I didn't miss anyone)
+
+======== Year 2006 ========
+
+2005/12/31
+	* BTW! Happy New Year ^^
+	* Changed Morroc to Morocc [Poki#3]
+	* More you-know-what, by you-know-who xD [Poki#3]
+
+2006/12/30
+	* Changed desc of Maya card. I didn't like the iRO one. [Poki#3]
+	* Massive fixes by Haplo. When will he stop? :o [Poki#3]
+
+2005/12/29
+	* Changed one "Bon Gun" to "Bongun" [Poki#3]
+	* Fixed remaining Savage, Thef bugs and Pecos in otter files. Thanks to Haplo [Poki#3]
+	* Fixed names of new items (Thanks, Vicious). Desc will be later ^^; [Poki#3]
+
+2005/12/28
+	* Fixed guild skill requirements [Komurka]
+	* Fixed Prisoner's Bangle desc, thanks to tre03, Haplo and frugal [Poki#3]
+	* Changed all "PecoPeco" and "Pecopeco" to "Peco Peco" [Poki#3]
+
+2005/12/27
+	* Raw addition's of the new items. Only Temp Plugs. [Poki#3]
+	* Changed all "Thefbug's" to "Thief Bug's" [Poki#3]
+	* REALY fixed the color NOW! [Poki#3]
+	* Re-fixed the color tag for Orc Sword ^^; [Poki#3]
+	* Fixed colour tags for Orcish Sword thanks to incomplete [mrmagoo]
+	* Fixed colour tags in potions so they all look the same [mrmagoo]
+	* Urgh. Fixed the stupid typos in the maps >.< Thats what I get for not sleaping well... Thanks Rideword [Poki#3]
+
+2005/12/26
+	* Added a bunch of maps to mapnametable. Scroll to the bottom ^^ [Poki#3]
+
+2005/12/25
+	* Fixed Sesame Pastry. It adds HIT, not ATK. [Poki#3]
+
+2005/12/23
+	* Haplo fixed a bunch of typos in the new desc ^^; [Poki#3]
+	* Endure desc fix [Komurka]
+
+2005/12/22
+	* Some Fixes, Thanks to Haplo! [Poki#3]
+	* A TON (hundreds and hundreds of...) items have new flavor text. Please watch out for typos! [Poki#3]
+	* Head Gear > Headgear, Weaponry > Weapon. [Poki#3]
+
+2005/12/21
+	* Fixed "Type: Passive" appearing twice in 'Skin Tempering' desc. Thanks to Spiritual_Kid [Poki#3]
+	* Uploaded v3 Textures.rar. Please go to http://mrmagoo.psiblade.net/translation/ and download it. [Poki#3]
+	* Hugel Patch! ;] [Poki#3]
+	  - The Katar "Unholy Touch" (1263) now gives Critical rate - 1
+	  - Changed the ID of "Rifle" and "Bullet" (1726 to 13100 and 1772 to 13200)
+	  - Removed effect from Lucky Potion
+	  - 35 New Items (Descriptions for the items will be introduced later)
+	  - New map names.
+	* Fixed small typo in Golden Bells. [Poki#3]
+	* Added a missing line to Electric Guitar. [Poki#3]
+	* Fixed one map name. Thanks to NLZ. [Poki#3]
+	* Removed duplicate of SA_CLASSCHANGE. Thanks to NLZ. [Poki#3]
+
+2005/12/19
+	* Typo correction:  brake -> break in skill descriptions. Thanks to Haplo [Manipulator]
+
+2005/12/16
+	* iRO Import [Poki#3]
+	  Pumkin => Pumpkin (^^;), Luise's Santa Hat => Louise's Santa Hat, Red Package => Santa's Bag
+	* Removed the "Create %s#" line from msgstringtable. Seams like the new kRO client does not read it [Poki#3]
+
+2005/12/14
+	* Tarot Cards cast time IS reduceable by Dex [Poki#3]
+	* Changed desc of Union of the Sun, Moon and Stars (Knight Berserk? XD) [Poki#3]
+	* Small fix to item 7346. Thanks to Haplo [Poki#3]
+	* Reverted midas's last "Fix" [Poki#3]
+
+2005/12/11
+	* Removed dup 7434. Thanks to Haplo [Poki#3]
+
+2005/12/10
+	* Moded the Potion Guides :P [Poki#3]
+
+2005/12/09
+	* Added potion formulas to the manuals in the item descripts [midas]
+	* Updated some skill descriptions according to posts on ragnainfo [midas]
+	* I was bored, so I translated some items ;] [Poki#3]
+	 5106, 1916, 1966, 7340, 7341, 7342, 7343, 7344, 7345,
+	 7346, 7347, 7348, 7349, 2657, 7350, 7351, 2663, 2664.
+	* Added Taekwon Class to ASPD Pots [Poki#3]
+	* Changed Second Advent of Angel and Angel's Kiss to novice only.
+	  They are part of a novice set. Thanks to Kholdstare. [Vicious]
+	* Fixed Demon of the Sun, Moon and Stars desc [Poki#3]
+
+2005/12/07
+	* Fixed Star Gladiator maseges [Poki#3]
+
+2005/12/04
+	* Skill range fixes (RO have fixed ranges - they doesn't depend on weapon) [Komurka]
+
+2005/12/02
+	* Replaced Baby_Desertwolf_Card with Desertwolf_Babe_Card.  [Manipulator]
+	* More Baby to Babe replacements for Desert Wolf instances. Thanks to Haplo. [Manipulator]
+	* Minor typo corrections to idnum2 and num2item desc tables.  Thanks to auronx. [Manipulator]
+
+2005/12/01
+	* Replaced AGAIN all occurences of Savage Bebe back into Savage Babe. [Manipulator]
+	* Finally fixed wrong description of Pressure (MaxSP -> SP) [Lupus]
+	* Added 2 maps to mapnametable.txt (ordeal_a00 and ordeal_a02) [Poki#3]
+	* Added raw framework to Gunslinger skills [midas]
+
+2005/11/29
+	* Added Auction Maps to the map name table [Poki#3]
+	* A few skill desc clarifications [Poki#3]
+	* Minor typo correction to item#4166 thanks to TJ09. [Manipulator]
+
+2005/11/28
+	* New items from Patch 202005/05/2005/11/29. Red Package, Symbol of a Brave Warrior, Cloud General, Wind General. [Poki#3]
+	* New skill changes to TaeKwon Classes. (Translation of the items and skills by Vicious_Pucca) [Poki#3]
+
+2005/11/27
+	* Some minor overlooked corrections.  Defence-> Defense. [Manipulator]
+
+2005/11/26
+	* Changed "Thef Class" to "Assassin" in Orcish Axe [Poki#3]
+	* Added something to Lucky Potion ^^; [Poki#3]
+
+2005/11/22
+	* Small crash fix in msgstringtable.txt - missing one line [Komurka]
+	* Small fixes on new items [Vicious_Pucca]
+	* Weekly kRO Patch changes, item translations by Vicious_Pucca: [Poki#3]
+	- Added stat + and - to Skeleton Manteau
+	- Changed the Weight of Philosopher's Stone from 1 to 30.
+	- New items: Rifle, Bullet, Glove of Archer, Wondering Bard's Bow, Lucky Potion, Santa Hat (A new one!).
+	- Updated desc of Cyclops Eye
+
+2005/11/16
+	* Corrected some skills and updated Infiltrator [Vicious_Pucca]
+	* Gunslinger and Ninja Temp Skill plugs are in!!! [Poki#3]
+	* One New item (Translation by Vicious) [Poki#3]
+	* Corected Job requirement for half of the Elementall armors (an in todays kRO patch) [Poki#3]
+
+2005/11/14
+	* Fixed one missing "Li Me Mang Ryang" > "Dancing Dragon" in the desc of Wanderer Card ^^; [Poki#3]
+	* Auto-Guard -> Guard (midas' desc only) and corrected the formula thanks to Haplo [mrmagoo]
+	* Minor corections. PoPoring > Poporing, RAMADAN > Ramadan, KETUPAT_SAYUR > Ketupat. [Poki#3]
+	  Id Item [ID 7458] name realy "Unknown" ? Oo
+	* Fixed some of Vicious's grammar, and updated the num2itemdesctable.txt [Poki#3]
+
+2005/11/13
+	* Updated items... backward! [Vicious_Pucca]
+
+2005/11/12
+	* Fixed Brooch of Cursed Fortune [Vicious_Pucca]
+	* Fixed Ganbantein and Gravity Field and other skills color tags - Thanks to frugal for pointing it out [Poki#3]
+	  *sight* They need a makeover -_-
+	* Fixed the map names of the last levels of Thanatos Tower - Thanks to Haplo for pointing it out [Poki#3]
+
+2005/11/09
+	* Not a change, but a notice. I uploaded a new rar file called "The Sign Quest Patch.rar"
+	  to you site at http://mrmagoo.psiblade.net/translation/
+	  It consists of 4 BMP's that are used in The Sign quest. The ones in your kRO sdata.grf
+	  is in Korean, so i extracted the pics from iRO's sdata.grf. Enjoy. [Poki#3]
+
+2005/11/06
+	* Updated Masamune, Iron Driver, Repeating Crossbow. Hope that's all.[Poki#3]
+	* Another MASIVE update! Overal fixes, some from iRO :o [Poki#3]
+	* FLEE > Flee Rate [Poki#3]
+
+2005/11/04
+	* Typo correction: Ressurect to Resurrect.  Homonuculus to Homunculus.  Among others. [Manipulator]
+	* Removed "Contrary to the name it can be used with every weapon" from kRO's desc of Concentration [Poki#3]
+	* Fixed Aura Blade Requirement in Magnym Break's desc - Thanks to PeF for this and the above [Poki#3]
+	* New desc for Izidor (709) by vicious_pucca [Poki#3]
+
+2005/11/03
+	* Cook Books Finished. All the recepies are in... hopefuly errorless ^^; [Poki#3]
+
+2005/11/01
+	* "Casting Delay" > "Casting Time" [Poki#3]
+	* Bey, bey, Over-powered Pumpkin Hat ^^; [Poki#3]
+	* Changed some msgstringtable.txt lines to show bether, with the Wiz's "Monster Property" skill [Poki#3]
+
+2005/10/31
+	* Added Female Only to 5092 & 5093 thank to the__android [mrmagoo]
+	* Fixed a few missing #'s in num2itemdesctable.txt [mrmagoo]
+	* Changed Item inventory. -> Inventory in msgstringtable thanks to Mulsiphix [mrmagoo]
+
+2005/10/29
+	* Added desc to 7483
+	  (Todo: Cook Books. I'll go esy on it, and ad then after eA gets the ingrediance done ^^; ) [Poki#3]
+	* Removed "Weight : 0" from some items, just like kRO. [Poki#3]
+	* Fixed Weight of items 2636 and 2637 (From 0 to 10) [Poki#3]
+	* Fixed Ocult Impact Range from 9 to 2 [Poki#3]
+
+2005/10/26
+	* Fixed Desc of items: 12023, 7331 12024 575 576, 7361 ~ 7398, 12035 ~ 12039, 12040 [Poki#3]
+	* Swaped items Number 5114, 5115, 5120. Thanks to vicious_pucca [Poki#3]
+	* Fixed Gran Cross desc for Komurka ^^ [Poki#3]
+	* Added HP cost to Increase AGI [Komurka]
+
+2005/10/25
+	* Fixed desc of items: 5125, 5126, 5127, 5128, 5129, 5130, 5131, 5132, 1562, 1771. [Poki#3]
+	  Note to self: re-check the new equips :/
+	* Updated Emergency Call Desc [Poki#3]
+	* Fixed desc of items: 7338, 7339, 5122, 5123, 5124. I'll do more later ;] [Poki#3]
+
+2005/10/24
+	* Removed the Item ID's that Manip translated from Translation Notes [Poki#3]
+
+2005/10/23
+	* Some more temporary item descriptions I made to replace Bablefish ones. [Manipulator]
+	* added level dependencies to demonbane and devine protection [midas]
+	* set def reduction for signum crucius according to ea sources to test for correction [midas]
+
+	==>> Revision 100 Reached ^^ <<==
+
+	* BIG msgstringtable.txt update. Some things done by me, but a very big chunk is in thanks to Kumori [Poki#3]
+	* Small kRO skill addictions, and bug fixes [Poki#3]
+	* A little Google to English translations. Manip, you can do thins, if you want ^^; [Poki#3]
+	  Making the translations is realy fun ^^, I just wish I had more time...
+
+2005/10/21
+	* Removed duplicate entries for skilldesctable.txt and skilldesctable-kro.txt,
+	  Thanks to Naru for pointing it out. [Manipulator]
+	  - SA_REVERSEORCISH, SA_FORTUNE, SA_TAMINGMONSTER, SA_QUESTION, SA_GRAVITY.
+
+2005/10/20
+	* Removed the RARs from the releases folder [mrmagoo]
+	  I've left a readme for anyone with old links who doesn't know where the
+	  mirror is. I'll add the other mirror to it when it's working.
+
+2005/10/19
+	* Fixed Whisper Boss Card desc: Max HP +30% -> +3%. Just check Korean desc 8) [Lupus]
+	* Added 7483 as a crashfix using Landarma's display name, the description needs
+	  translation though. Poki#3? [mrmagoo]
+	* Updated the readme.txt in releases with the address of my RAR mirror.
+
+2005/10/15
+	* Removed skillnametable.bak.txt I don't thinks its needed anymore. [Poki#3]
+	* Added mrmagoo's fix to skilldesctable-kRO.txt [Poki#3]
+	* Fixed Provoke's colour tags thanks to elmo-chan [mrmagoo]
+	* Updated New Cards Desc, based on iRO [Poki#3]
+	* Minor Map Name Table typo corrections [Poki#3]
+
+2005/10/13
+	* Message string table changes. [Poki#3]
+	 Changed some lvl to Level, changed Guild Master to Guild Leader (No more mistaking the "GM" shortcut)
+	 Some changes to the Guild Window, Overall typo Fixes, Star Gladiator messeges sound better
+
+2005/10/12
+	* Updated 1245,1246 Cinquedia. Required level 55 -> 30, thx2persian69 4info [Lupus]
+	* All stat -> All Stats (just made it look the same way in all item descs) [Lupus]
+	* Removed ATK + 20 from Ancient Mummy + Mummy Card Combo Bonus [Lupus]
+
+2005/10/11
+	* Removed some stupid "Enable to" -_- [Poki#3]
+	* Removed leveluseskillspamount.txt. Theres NOTHING that needs Translating there. [Poki#3]
+	  Simply keep the client up to date and everything will be fine
+	* Some mapnametable.txt changes for the new Yuno and Einbroch fields. [Poki#3]
+	* Changed Maya Card description to better describe the actual effect [Poki#3]
+	* Added 2005/10/11 Items. My own Translations ^^; [Poki#3]
+
+2005/10/10
+	* added leveluseskillspamount.txt to complete the skills package [midas]
+	* Falcon Assault fix (180%+40*SkillLV% -> 150%+70*SkillLV%) [Komurka]
+
+2005/10/09
+	* Replaced (again)ALL occurrences of 'Grinded' with 'Ground' representing the proper grammar
+	  'Past Participle' verb form of 'Grind'.  Grinded is now obsolete. [Manipulator]
+
+2005/10/07
+	* Fixed Wind Walk Desc [Poki#3]
+	* iRO Sakrey got the Einbroch patch Finaly xD Here are the changes: [Poki#3]
+	 - New Desc: 7184, 684, 7285, 7286, 567, 5099, 7292, 570, 571, 5102, 2642, 2643,
+	   7304, 7305, 7306, 7307, 7308, 7309, 7313, 7314, 2644, 12020, 7310, 7311, 7312,
+	   7315, 7316, 7317, 7318, 7319, 7320, 7321, 7322, 7323, 7325, 7326, 7327, 2645,
+	   5103, 1244, 7328, 7329, 2646, 12021, 12022.
+	 - New Item Names: ...lost the list -_-. Compare the files...
+
+	 - Official iRO New Card Prefixes are in. Of course iRO Overlooked all "Post Fixes" so i made my own -_-
+
+	 I can tell you that the guy who translates for iRO is DEFINITELY not and English speaker...
+	 He made a ton of grammatical errors while doing it -_- (We > iRO ;>)
+	 He also changed a bunch of perfectly good desc to something that looks like Kindergarten -_-
+	 Of course I skipped the total nonsense, and sometimes I had to change some perfectly good translations
+	 to something that looks worse :/ Anyone want to compare the new with the old and select the best desc?
+	 (Or meaby a mix of the two?)
+
+2005/10/06
+	* Reverted Venom Knife's Weight back to 0.5 (It was changed from 1 to 0.5 in an aerier  kRO Patch) [Poki#3]
+	* Changed some new item names to the Ones that Landarma translated for eA [Poki#3]
+
+2005/10/05
+	* Changed implamented->implemented on a few items [mrmagoo]
+	* Cleaned up a lot of new item descriptions using mRO as a reference [mrmagoo]
+	  5104, 5103, 5102, 5101, 7280-7284, 7285, 7304, 7305, 7306, 7307, 7308, 7309,
+	  7310, 7311, 7312, 7313, 7314, 7315, 7316, 7317, 7318, 7319, 7320, 7322, 7323,
+	  7325, 7326, 7327, 7328, 7329, 12020, 12021, 12022, 12025, 12026.
+	* Changed weight of Venom Knife to 1 (i though Poki#3 did that?) [mrmagoo]
+	* Fixed a few colour (sorry, color :P) tags and typos [mrmagoo]
+
+2005/10/04
+	* Copied over fixes from skillnametable to skillnametable-kRO [Poki#3]
+	  (To Devs - If you change something in one file, PLEASE change it in boath)
+	* TK > Taekwon
+	* Fixed weight of Hand of God (should be 2 not 10) [mrmagoo]
+	* Changed striped -> stripped on 1148 [mrmagoo]
+	* Fixed Infiltrator (1261) Dodge Rate to 5, not 5% [mrmagoo]
+	* Added Wind Property to Mjolnir as kRO seems to agree [mrmagoo]
+	* Added this weeks changes to skill descripts [midas]
+
+2005/10/02
+	* Overal typo fixes, mainly betwen Slotted and non slotted items. That Finishes the descrypion recheck
+	  that I was planing. We probebly still need to recheck Jobs, Waight and so on... [Poki#3]
+	* Added MDEF + 1 to Kafra Ring (2640), MDEF + 3 to #5097 [Poki#3]
+	* Critical, CRIT > Critical rate [Poki#3]
+	* Added Descryption to Unitentified Slotted Chain (1521) and Beard (2240) [Poki#3]
+	* Wind Walker gives +x not +x% to flee, fixed that [midas] (Midas, write AT THE TOP of the Changelog -_- )
+	* Slowly started working on a kRO Version of the Skill Desc [Poki#3]
+
+2005/10/01
+	* Reorganized the skill name tables (Old Version is backuped) [Poki#3]
+	* Fixed some iRo Names...
+	 - Twilight Alchemy 1, 2 and 3 Changed to Twilight Alchemy (Without the numbers, thats how it should be)
+	 - Throw Tomahawk > Tamahawk Throwing
+	 - Ka and Es Magic (kRO Ones to)
+	 - Some Spirit Skills
+	 - Some Star Knight Skills
+	 - All TaeKwon Skills :/
+	 - Master Smith unused Skills... dunnow why but what the hell ^^
+	 - Hyper Spirit Sphere > Zen
+	 - Full Adrenaline Rush > Advanced Adrenaline Rush
+	 - Berserk Pitcher > Aid Berserk Potion
+	 Weh... I thinks thats all... Ill work on a kRO Desc Later...
+	* Changed the New Quest skill Max Level to 1 (Who ever saw one with more??)
+	* Reverted impation back to impact (n oengrish if possible) [midas]
+	( Note by Poki#3: Midas, please write new things at the TOP of the Changelog, and on iRO it's "Occult Impaction")
+	( See for youreself: http://iro.ragnarokonline.com/game/jobmonskill.asp )
+	* Item 7173 is "To Be Corected (TM)" [Poki#3]
+	* Removed Old Japan Event Items (542, 543) [Poki#3]
+	* Added Unitentified Desc for 2237 Bandit Beard, and desc for 2238 Moustache (Wich doesn't have a sprite btw ^^;)
+	* Reverted Grinded > Ground [Poki#3]
+	  Taken from Wikipedia: http://en.wikipedia.org/wiki/Grinding
+	  Grinding is a form of preparing food for eating, or for use in other forms of cooking.
+	  For example, bread and pasta rely on grinding of the flour, the production of tahini
+	  (sesame seed paste) involves grinding of the seeds, ground almonds are an important ingredient in many dishes.
+	 Also we had some nonsens like "plant is ground well and eaten" or "filled with ground meat"
+
+2005/09/30
+	* Fixed Blast Mine description (explosion time) [Komurka]
+	* Switched grinded->ground for herbs/potions again (did somebody prefer grinded?) [mrmagoo]
+	* Switched Lucky FLEE->Perfect Dodge [mrmagoo]
+	* Fixed a few typos in About.txt [mrmagoo]
+	* Fixed Root description (Throw Sphere <-> Occult Impaction) [Komurka]
+	  Occult Impact -> Occult Impaction
+
+2005/09/29
+	* Summon Flora (iRO) -> Bio Canibalize (kRO) [Komurka]
+	* Many skill descs fixes (numbers mostly according to kRO web page, also corrected guild skills) [Komurka]
+	* Compared pre 2005/09/27 kRO Desc with the 2005/09/27 one and added the changes [Poki#3]
+	 - Venom Knife Weight changed to 0.5 from 1
+	 - 12122, 12123 and 12124 got new Effects... Google Translations t.t
+	 - Added "All stat + 2" to item Number 5134
+	 - New items are in.
+	  Currently comparing a new kRO Desc with the iRO one :/
+	  I've noticed that there are Severe Differences... Guard for instance :/
+
+2005/09/28
+	* Merged with Komurka's Skill descs and fixed a lot of differences, [midas]
+	  yet some things remain uncertain. see skilldesctable_notes.txt and Translation Notes.txt
+
+2005/09/27
+	* Temp Plugs for 2005/09/27 Items, to lazy to add the desc -_- [Poki#3]
+	* Soul Linker's In ^^ (Still gathering some info about Berserk Pot) [Poki#3]
+	* Fixed Damage : > Attack : [Poki#3]
+	* Removed "Property : Neutral" from Weapons (because Neutral is a "Default property" [Poki#3]
+	  Arrows and Venom Knife are left intact.
+
+2005/09/26
+	* Every correction Moved to unidentified items, Finlay ^^ [Poki#3]
+	 - Note: Some Unidentified items have different Weight then the identified Version!
+	   Don't ask me why it was like that... I moved the Identified item weight over... <_<
+	* More grammar Fixes... [Poki#3]
+	* Fixes to mapnametable.txt pointed out by Manipulator [Poki#3]
+	* Changed "Fur Seal" to "Seal" [Poki#3]
+	* Some copying of grammar fixes from idnum to num. More to Come [Poki#3]
+
+2005/09/23
+	* Reorganizing the SVN [Poki#3]
+	 - Removed releses/old folder
+	 - Deleted the old About.txt, corrected and moved About2 in its place
+	 - Removed Thumbs.db from BMP rar thus updating it to v2
+	 - Added a data folder to the textures.rar so it can be unpacked directly in the RO folder (v2)
+	   (You'll have to re-download the whole 2 files, sorry for that -_-)
+	 - Packed Everything into v46-Text.rar
+	* Some Fixes to kRO Skill Names [Poki#3]
+	* Added Star Gladiator to the Applicable Job section of certain items. [Poki#3]
+	 - Soul Linker is still missing. Can he wear Equipment that is ONLY for Mage and Wizard
+	   (Like Wizard Hat) or everything that Mages can equip (Like Knife) ?
+	   And what about "Every Job" and "Every job Except Novice" Equips?
+
+2005/09/22
+	* Banana Hat (added 3% chance of Provoke) [Lupus]
+
+2005/09/21
+	* Reverted back 'Babe' to 'Bebe' thanks to blackrazor for pointing out my error. [Manipulator]
+	* Removed duplicates from kRO-skillnametable.txt and fixed some names [Poki#3]
+	* Some clean ups of # characters for Dr.Evil. The client will probably likes them to :3 [Poki#3]
+	* Moved the rar Files from the root directory to relese/old [Poki#3]
+	  Can we delete them?
+	* Added new items (21/2005/09/05) [Poki#3]
+	  Landarma's Item Names, Google item Descriptions. I Hope I didn't made any mistake when translation the effects,
+	  anyone want to double check? I Used Landarma's item_db addition is a reference.
+	* Made some new maps in the mapnametable.txt sound bether ^^ [Poki#3]
+	  Gravity is still missing 4 maps in that file -_-
+
+2005/09/20
+	* Some more translation replacements to Google ones [Manipulator]
+	* Replace Savage Bebe with Savage Babe for both Card and Egg items. Thanks to dantem [Manipulator]
+
+2005/09/18
+	* Arbalest_Bow > Arbalest (1713), Novice_Main-Gauche > Novice_Main_Gauche (1243) (Thanks to KarLaeda) [Poki#3]
+	* Item names Dyestuffs -> Dyestuff [Lupus]
+	* [itemdesc] changed few Weigth: -> Weight :, separated 2 slipped words in #506 desc [Lupus]
+	* [skillsdesc] Finished fixing small typos and differences, such as: [Lupus]
+	 - Max lvl -> Max level, Etc : - > Catalyst:, [LEVEL ??] -> [LV ??], Description: -> Effect:
+	* Almost nearly completing the googled item descriptions. At least, it's better, though inaccurate. [Manipulator]
+	* Replaced lvl/Lv -> Level as suggested by Lupus (a few survived) [mrmagoo]
+	* Tweaked some herb/potion desciptions (restores HP about ?? -> recovers about ?? HP etc) [mrmagoo]
+	* Fixed Guild Extension description thanks to andz [mrmagoo]
+	* Replaced MaxHP/MaxSP -> Maximum HP/Maximum SP [mrmagoo]
+	* Several fixes thanks to k3dt (Provoke/Autobeserk have NOT been changed) [mrmagoo]
+	* Added kRO-skillnametable.txt. Simply Rename it to skillnametable.txt if you want
+	  kRO skill names. Still need an Updated skilldesctable.txt with kRO names thou. [Poki#3]
+	* More item description temporary translations by me.  Still NOT accurate, of course. [Manipulator]
+	* Removed/fixed the Not Implamented in num2itemdesctable thanks to k3dt [mrmagoo]
+	  (mostly updates not yet copied from idnum2itemdesctable)
+	* Fixed Required For: of Weaponry Reasearch thanks to k3dt [mrmagoo]
+	* Fixed Cool Down: for Falcon Assault thanks to Lorky [mrmagoo]
+	* Copied a few newer descriptions over to num2itemdesctable [mrmagoo]
+	* Re-added the missing texture.rar! [mrmagoo]
+	* Organised the SVN a bit more [mrmagoo]
+	* Fixed some unidentified weights [mrmagoo]
+	  (why does 1356 have different weight to 1355 in eAthena DB??)
+
+2005/09/17
+	* Started replacing google translations with something intelligible. [Manipulator]
+	  Un-official and may NOT be accurate. Better than reading gibberish, eh?.
+	  May be replaced later when real proper translations are offered by then. xD
+	* Fixes pointed out by Lupus: [Poki#3]
+	 - Required lvl > Required Level
+	 - Weapon lvl > Weapon Level
+	 - Attribute > Property (Meaby we should Remove "Property : Neutral" ??)
+	* Fixed name of Fire Wall 5 Scroll (Thanks to andz) [Poki#3]
+	* Added the data folder to textures.rar and moved it to the root folder [Poki#3]
+	  We Probebly still need to reorganize it.
+
+2005/09/16
+	* Fixed some typos/grammar [mrmagoo]
+	* Changed Songwha Week to Songwha Orb [Poki#3]
+	* Fixed Id of the 8'th Songwha Orb (Thanks to KarLaeda) [Poki#3]
+	* Fixed Id of "Indonesia" Item (Thanks to KarLaeda) [Poki#3]
+	* Removed iRO's 1'st Year Anniversary Party Hat (Thanks to KarLaeda) [Poki#3]
+	  (There's already a normal Party hat with the same ID)
+
+2005/09/15
+	* Added 538 and 539 to num2itemdisplaynametable.txt [mrmagoo]
+	* Fixed 4236, chances should increase to 2% not 100% (my mistake). [mrmagoo]
+	* Added info from the eAthena DB for 5122, 5123, 5124, 5126, 5127, 5128, 5129, 5130,
+	  5131, 5132 and 1562, still need descriptions though. [mrmagoo]
+	* Updated msgstringtable.txt by taking bits from mRO's (?) one provided by dUMBIe [Poki#3]
+	* Added midas' latest skill name/desc tables Updated as of 09.14.2005 [Manipulator]
+	* Added Whisper Boss Card and '4303' to idnum2item/num2itemdisplaynamertable. Thanks to dUMBIe [Manipulator]
+	* Proof-read Poki#3's About.txt and made some typo corrections to it. [Manipulator]
+	* Added Cards 4295 and 4298 to cardpostfixnametable.txt (Thanks to KarLaeda) [Poki#3]
+	* All 13/2005/09/05 Items are in (Google Tranlations) [Poki#3]
+	* Added 13/2005/09/05 Items to displaynametables. Adding desc tablels right now... [Poki#3]
+	* Added missing guild_vs4 and guild_vs5 to mapnametable.txt [Poki#3]
+
+2005/09/14
+	* Changed 'Allows to use <blah>' to 'Cast <blah>' on scrolls, i think it's better [mrmagoo]
+	* Corrected item name typos/grammar for 1417, 1463-1465 and 1469 - please check [mrmagoo]
+	* Added Dev/About2.txt, comments/suggestions? [mrmagoo]
+	* Added English Tip Of The Day and Default RO Skin (+ euRO Skin ^^) [Poki#3]
+	  All in totd_skin.rar
+	* Added Custom names for the new maps... till kRO fixes this ^^; [Poki#3]
+	  (I coudn't warp to tha_scene01 -_- )
+	* Fixed a few map names based on mRO (thanks to davidchak) [Poki#3]
+	* Removed the resnametable. Addet a seperate rar with kRO's resnametables. [Poki#3]
+	* Fixed the description of items 562, 563, 565 & 7279
+	  Used mRO's descryption. Translated by davidchak [Poki#3]
+	* Fixed a Typo in manner.txt [Poki#3]
+	* Added Latest idnum2itemresnametable.txt from latest kRo Patch [iKKe]
+	* Fixed a Typo, Yes, one! o.o i Will add kRo Changes later [iKKe]
+
+2005/09/12
+	* SVN Started. Please write all changes here... [Poki#3]

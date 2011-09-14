@@ -1,0 +1,87 @@
+The format of to-do list items is:
+
+Description	- A description of the task
+Status		- The status of the task. The possible values are Pending and Completed
+Assigned	- The nickname of the person whom is assigned the task
+Notes		- Miscellaneous notes concerning the task
+
+**********
+1.
+Description:	The "Applicable Job" section of the new items needs a SERIOUS re-check...
+		I'm doing the specifics of *all* items (weight, req level etc).
+
+Status:		Pending (80%??)
+
+Assigned:	mrmagoo
+
+Notes:		Is this Done?? [Poki#3]
+		Report made by KarLaeda, must be checked, hope most of it is in his report. [Haplo]
+		Can we consider this done?? Seems like everything is fine now... [Haplo]
+
+**********
+6.
+Description:	Find someone who knows Korean to help with the project
+
+Status:		Completed
+
+Assigned:	Everyone
+
+Notes:		"Hi. XD" - Vicious_Pucca
+		Everyone! Chears for Vicious_Pucca!!! ;] [Poki#3]
+
+		~~Do we need more people? [Poki#3]
+
+**********
+7.
+Description:	Get information from an Forger on kRO wich is true:
+		3 or 12 Oridecon for forging a Halberd
+
+Status:		Pending (0%)
+
+Assigned:	None
+
+Notes:		kRO's Client and kRO's Website boath say diferent things.
+		Only a kRO forger can probebly clear this up, once and for all...
+
+**********
+9.
+Description:	Critical Rate
+
+Status:		Pending (0%)
+
+Assigned:	None
+
+Notes:		Some has "Critical Rate +x%" and some has "Critical Rate +x". We should probably
+		unify them. [Vicious_Pucca]
+
+		ASPD is Always +x% (in RO). Crit Rate is always +x? There isn't any +x%? [Poki#3]
+
+**********
+11.
+Description:	Skill desc tables
+
+Status:		Pending (90%). Name changes done. 3 pairs of optional files available.
+
+Assigned:	reddozen, ZeroXell. Manipulator for the "-hybrid" files. Haplo as consistency checker.
+
+Notes:		Some desc's are inaccurate and outdated. -_- [Poki#3]
+
+		The sentence for Kaizel, Kaahi, Kaupe and Kaite "Can be used on other Soul Linkers
+		(only if soulinked with them)" was removed until further clarification. midas saw it
+		somewhere on Ragnainfo, but people say that is wrong and no one has confirmed this behavior. [Haplo]
+
+**********
+12.
+Description:	hidden water and bonus to lightning sper of ice and waterball
+
+Status:		Pending (0%).
+
+Assigned:	None
+
+Notes:		from Lune: "When using Lightning Spear of Ice on top of Hidden Water, at maximum skill level, will add 20% bonus damage to Lightning Spear of Ice. Also, Water Ball and Aqua Benedicta's "effective range" will also be decreased."
+					- cant make sense of this: is to ONLY? at max LSpear level or at Hidden Water? effective range of AB??? AB has 0 range? does it mean waterball "balls" or range?
+
+		My guess is that it refers to "Lightning Spear of Ice" max level to receive the bonus, since he is refering to that skill and it would be more logical to have the bonus attached to the damaging skill (Hidden Water dont do damage).
+		By "effective range" maybe he refers that the puddle will expire faster than before when Water Ball and Aqua Benedicta are used??? To avoid spamming those skills in the Hidden Water's puddle??? [Haplo]
+
+**********
