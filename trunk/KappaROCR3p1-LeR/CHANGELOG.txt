@@ -1,0 +1,7 @@
+[9-12-11.2:41pm]|kattun|
+! Second commit try
+* Removed Hamachi.msi - use code page tools package.
+
+[9-12-11.1:59am]|kattun|
+! First SVN commit
+* Fixed clientinfo.xml
