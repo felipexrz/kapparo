@@ -41,7 +41,7 @@ Some futures features include, but are not limited to are:
 == Download Our Client ==
 <font color=RED>
 
-*To download the client, you must install <a href="http://tortoisesvn.net/downloads.html">TortiseSVN.</a>*
+*To download the client and play, you must install <a href="http://code.google.com/p/kapparo/downloads/detail?name=Tools.rar&can=2&q=#makechanges">these tools.</a>*
 <font color=black>
   # Create a new folder for the game on your desktop.
   # Right click on the folder, hit "SVN Checkout"
